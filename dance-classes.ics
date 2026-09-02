@@ -1,0 +1,897 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NYC Dance Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:NYC Dance Calendar — Dance Classes
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:peridance:255128:2026-09-07@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260907T150000Z
+DTEND:20260907T163000Z
+SUMMARY:Inter Hip Hop
+DESCRIPTION:Peridance Center\\nInstructor: TweetBoogie _\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Mon.+Sep++7%2C+2026+11%3A00+am&item%5Bmbo_id%5D=255128&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Inter+Hip+Hop+&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:movers-bodega:7oqcRGUagGpFtRTydYNG@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260907T223000Z
+DTEND:20260907T235500Z
+SUMMARY:Beginner Hip Hop
+DESCRIPTION:Mover's Bodega (Modega)\\nInstructor: Tinasan\\nVERIFIED
+LOCATION:11-05 44th Avenue\, Queens\, NY 11101
+URL:https://moversbodega.com/class
+END:VEVENT
+BEGIN:VEVENT
+UID:movers-bodega:GqTSQuclCmxNkp5ofX0N@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260909T000000Z
+DTEND:20260909T012500Z
+SUMMARY:Intermediate House
+DESCRIPTION:Mover's Bodega (Modega)\\nInstructor: Modega\\nVERIFIED
+LOCATION:11-05 44th Avenue\, Queens\, NY 11101
+URL:https://moversbodega.com/class
+END:VEVENT
+BEGIN:VEVENT
+UID:movers-bodega:8BxEw1CSYR7hyjd54Oui@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260904T000000Z
+DTEND:20260904T012500Z
+SUMMARY:Intermediate Hip Hop
+DESCRIPTION:Mover's Bodega (Modega)\\nInstructor: Tatiana Desardouin\\nVERIFIED
+LOCATION:11-05 44th Avenue\, Queens\, NY 11101
+URL:https://moversbodega.com/class
+END:VEVENT
+BEGIN:VEVENT
+UID:pmt-house-of-dance:37836:2026-09-07@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260907T233500Z
+DTEND:20260908T010500Z
+SUMMARY:Beginner Hip Hop
+DESCRIPTION:PMT House of Dance\\nInstructor: Rashaan Edward\\nVERIFIED\\nThis studio's registration-window policy hasn't been confirmed\, so cancellation status can't be reliably determined from this source yet.
+LOCATION:28 West 25th Street\, 2nd Floor\, New York\, NY 10010
+URL:https://cart.mindbodyonline.com/sites/85966/cart/add_booking?item%5Binfo%5D=Mon.+Sep++7%2C+2026++7%3A35+pm&item%5Bmbo_id%5D=37836&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Beginner+Hip+Hop&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:nieves:manhattan:19:0:Salsa Advanced Beginner Level – 203:2026-09-03@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260903T230000Z
+DTEND:20260904T000000Z
+SUMMARY:Salsa Advanced Beginner Level – 203
+DESCRIPTION:Nieves Latin Dance Studio — Manhattan\\nVERIFIED\\nThis is a standing weekly schedule template\, not a day-by-day confirmed booking feed — there's no way to detect one-off cancellations from this source.
+LOCATION:Nieves Latin Dance Studio — Manhattan
+URL:https://nievesdancestudio.com/all-4-location-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:pmt-house-of-dance:37507:2026-09-05@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260905T183000Z
+DTEND:20260905T200000Z
+SUMMARY:Open Popping
+DESCRIPTION:PMT House of Dance\\nInstructor: Big Mike\\nVERIFIED\\nThis studio's registration-window policy hasn't been confirmed\, so cancellation status can't be reliably determined from this source yet.
+LOCATION:28 West 25th Street\, 2nd Floor\, New York\, NY 10010
+URL:https://cart.mindbodyonline.com/sites/85966/cart/add_booking?item%5Binfo%5D=Sat.+Sep++5%2C+2026++2%3A30+pm&item%5Bmbo_id%5D=37507&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Open+Popping&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:pmt-house-of-dance:36994:2026-09-06@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260906T230000Z
+DTEND:20260907T003000Z
+SUMMARY:Adv. Beg. Hip Hop Choreo
+DESCRIPTION:PMT House of Dance\\nInstructor: Rashaan Edward\\nVERIFIED\\nThis studio's registration-window policy hasn't been confirmed\, so cancellation status can't be reliably determined from this source yet.
+LOCATION:28 West 25th Street\, 2nd Floor\, New York\, NY 10010
+URL:https://cart.mindbodyonline.com/sites/85966/cart/add_booking?item%5Binfo%5D=Sun.+Sep++6%2C+2026++7%3A00+pm&item%5Bmbo_id%5D=36994&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Adv.+Beg.+Hip+Hop+Choreo&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:251488:2026-09-05@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260905T190000Z
+DTEND:20260905T203000Z
+SUMMARY:Open New Style Hustle
+DESCRIPTION:Peridance Center\\nInstructor: Jeff Selby\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Sat.+Sep++5%2C+2026++3%3A00+pm&item%5Bmbo_id%5D=251488&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Open+New+Style+Hustle&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:254682:2026-09-06@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260906T153000Z
+DTEND:20260906T170000Z
+SUMMARY:Beg Dancehall
+DESCRIPTION:Peridance Center\\nInstructor: Korie Genius\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Sun.+Sep++6%2C+2026+11%3A30+am&item%5Bmbo_id%5D=254682&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Beg+Dancehall&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:252670:2026-09-07@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260907T200000Z
+DTEND:20260907T213000Z
+SUMMARY:Open Dancehall
+DESCRIPTION:Peridance Center\\nInstructor: Korie Genius\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Mon.+Sep++7%2C+2026++4%3A00+pm&item%5Bmbo_id%5D=252670&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Open+Dancehall&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:253230:2026-09-08@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260908T213000Z
+DTEND:20260908T230000Z
+SUMMARY:Open Popping
+DESCRIPTION:Peridance Center\\nInstructor: Jazzy J (Boog Soulfire)\\nVERIFIED\\nRegistration not yet open as of last check\; cancellation status unknown until closer to the class.
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://www.peridance.com/open-classes
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:254269:2026-09-05@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260905T173000Z
+DTEND:20260905T190000Z
+SUMMARY:Intro & Beg Salsa Partnering
+DESCRIPTION:Peridance Center\\nInstructor: Baila Society\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Sat.+Sep++5%2C+2026++1%3A30+pm&item%5Bmbo_id%5D=254269&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Intro+%26+Beg+Salsa+Partnering&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:nieves:manhattan:19:0:Bachata (Int/Adv) – 201/301:2026-09-07@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260907T230000Z
+DTEND:20260908T000000Z
+SUMMARY:Bachata (Int/Adv) – 201/301
+DESCRIPTION:Nieves Latin Dance Studio — Manhattan\\nVERIFIED\\nThis is a standing weekly schedule template\, not a day-by-day confirmed booking feed — there's no way to detect one-off cancellations from this source.
+LOCATION:Nieves Latin Dance Studio — Manhattan
+URL:https://nievesdancestudio.com/all-4-location-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:pmt-house-of-dance:37677:2026-09-02@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260902T220000Z
+DTEND:20260902T233000Z
+SUMMARY:Beginner Hip Hop
+DESCRIPTION:PMT House of Dance\\nInstructor: Devynn Brooks\\nVERIFIED\\nThis studio's registration-window policy hasn't been confirmed\, so cancellation status can't be reliably determined from this source yet.
+LOCATION:28 West 25th Street\, 2nd Floor\, New York\, NY 10010
+URL:https://cart.mindbodyonline.com/sites/85966/cart/add_booking?item%5Binfo%5D=Wed.+Sep++2%2C+2026++6%3A00+pm&item%5Bmbo_id%5D=37677&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Beginner+Hip+Hop&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:pmt-house-of-dance:37621:2026-09-08@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260908T223000Z
+DTEND:20260909T000000Z
+SUMMARY:Open Popping
+DESCRIPTION:PMT House of Dance\\nInstructor: Jon Lock\\nVERIFIED\\nThis studio's registration-window policy hasn't been confirmed\, so cancellation status can't be reliably determined from this source yet.
+LOCATION:28 West 25th Street\, 2nd Floor\, New York\, NY 10010
+URL:https://cart.mindbodyonline.com/sites/85966/cart/add_booking?item%5Binfo%5D=Tue.+Sep++8%2C+2026++6%3A30+pm&item%5Bmbo_id%5D=37621&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Open+Popping&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:movers-bodega:ETUK3HcSbB0vQnpJ4Q4W@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260908T223000Z
+DTEND:20260908T235500Z
+SUMMARY:All Levels Waacking
+DESCRIPTION:Mover's Bodega (Modega)\\nInstructor: Modega\\nVERIFIED
+LOCATION:11-05 44th Avenue\, Queens\, NY 11101
+URL:https://moversbodega.com/class
+END:VEVENT
+BEGIN:VEVENT
+UID:pmt-house-of-dance:36254:2026-09-08@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260909T000000Z
+DTEND:20260909T013000Z
+SUMMARY:Adv. Beg. Hip Hop
+DESCRIPTION:PMT House of Dance\\nInstructor: Andy Needham\\nVERIFIED\\nThis studio's registration-window policy hasn't been confirmed\, so cancellation status can't be reliably determined from this source yet.
+LOCATION:28 West 25th Street\, 2nd Floor\, New York\, NY 10010
+URL:https://cart.mindbodyonline.com/sites/85966/cart/add_booking?item%5Binfo%5D=Tue.+Sep++8%2C+2026++8%3A00+pm&item%5Bmbo_id%5D=36254&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Adv.+Beg.+Hip+Hop&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:mark-morris-dance-center:189160:2026-09-03@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260903T233000Z
+DTEND:20260904T010000Z
+SUMMARY:Open Level House
+DESCRIPTION:Mark Morris Dance Center\\nInstructor: Reyna *Núñez\\nVERIFIED\\nThis studio's registration-window policy hasn't been confirmed\, so cancellation status can't be reliably determined from this source yet.
+LOCATION:3 Lafayette Avenue\, Brooklyn\, NY 11217
+URL:https://cart.mindbodyonline.com/sites/31792/cart/add_booking?item%5Binfo%5D=Thu.+Sep++3%2C+2026++7%3A30+pm&item%5Bmbo_id%5D=189160&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Open+Level+House&item%5Btype%5D=Class&theme=legacy&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:251448:2026-09-05@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260905T160000Z
+DTEND:20260905T173000Z
+SUMMARY:Beg House
+DESCRIPTION:Peridance Center\\nInstructor: Huu Rock\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Sat.+Sep++5%2C+2026+12%3A00+pm&item%5Bmbo_id%5D=251448&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Beg+House&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:254189:2026-09-05@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260905T160000Z
+DTEND:20260905T173000Z
+SUMMARY:Intro & Beg Salsa Partnering
+DESCRIPTION:Peridance Center\\nInstructor: Baila Society\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Sat.+Sep++5%2C+2026+12%3A00+pm&item%5Bmbo_id%5D=254189&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Intro+%26+Beg+Salsa+Partnering&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:nieves:manhattan:18:0:Bachata – 101/102 (New every Monday):2026-09-07@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260907T220000Z
+DTEND:20260907T230000Z
+SUMMARY:Bachata – 101/102 (New every Monday)
+DESCRIPTION:Nieves Latin Dance Studio — Manhattan\\nVERIFIED\\nThis is a standing weekly schedule template\, not a day-by-day confirmed booking feed — there's no way to detect one-off cancellations from this source.
+LOCATION:Nieves Latin Dance Studio — Manhattan
+URL:https://nievesdancestudio.com/all-4-location-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:movers-bodega:t3Shtfd9eAoObI9iF2PI@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260903T223000Z
+DTEND:20260903T235500Z
+SUMMARY:Beg/Adv. Beg. Street Styles Choreography
+DESCRIPTION:Mover's Bodega (Modega)\\nInstructor: Modega\\nVERIFIED
+LOCATION:11-05 44th Avenue\, Queens\, NY 11101
+URL:https://moversbodega.com/class
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:251408:2026-09-05@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260905T173000Z
+DTEND:20260905T190000Z
+SUMMARY:Beg House
+DESCRIPTION:Peridance Center\\nInstructor: Huu Rock\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Sat.+Sep++5%2C+2026++1%3A30+pm&item%5Bmbo_id%5D=251408&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Beg+House&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:movers-bodega:ZBcVR2H5ttmEfVQwiFaO@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260902T223000Z
+DTEND:20260902T235500Z
+SUMMARY:All Levels Krump
+DESCRIPTION:Mover's Bodega (Modega)\\nInstructor: Modega\\nVERIFIED
+LOCATION:11-05 44th Avenue\, Queens\, NY 11101
+URL:https://moversbodega.com/class
+END:VEVENT
+BEGIN:VEVENT
+UID:movers-bodega:Rl6viPg9hMKdpFXt30BW@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260906T223000Z
+DTEND:20260906T235500Z
+SUMMARY:All Levels Hip Hop Freestyle
+DESCRIPTION:Mover's Bodega (Modega)\\nInstructor: Abbey Eheart\\nVERIFIED
+LOCATION:11-05 44th Avenue\, Queens\, NY 11101
+URL:https://moversbodega.com/class
+END:VEVENT
+BEGIN:VEVENT
+UID:danznik-studios-nyc:38984:2026-09-08@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260910T223000Z
+DTEND:20260910T233000Z
+SUMMARY:Brazilian Zouk Beyond Foundations (Level 2)
+DESCRIPTION:Danznik Studios\\nInstructor: Hara Zi\\nVERIFIED\\nThis studio's registration-window policy hasn't been confirmed\, so cancellation status can't be reliably determined from this source yet.
+LOCATION:240 West 37th Street\, 2nd Floor\, New York\, NY 10018
+URL:https://cart.mindbodyonline.com/sites/95211/cart/add_booking?item%5Binfo%5D=Thu.+Sep+10%2C+2026++6%3A30+pm&item%5Bmbo_id%5D=38984&item%5Bmbo_location_id%5D=2&item%5Bname%5D=Brazilian+Zouk+Beyond+Foundations+%28Level+2%29&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:255168:2026-09-07@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260907T230000Z
+DTEND:20260908T003000Z
+SUMMARY:Beg Hip Hop
+DESCRIPTION:Peridance Center\\nInstructor: Will Ordener\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Mon.+Sep++7%2C+2026++7%3A00+pm&item%5Bmbo_id%5D=255168&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Beg+Hip+Hop+&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:danznik-studios-nyc:38988:2026-09-08@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260910T233000Z
+DTEND:20260911T003000Z
+SUMMARY:Brazilian Zouk Foundations (Level 1)
+DESCRIPTION:Danznik Studios\\nInstructor: Hara Zi\\nVERIFIED\\nThis studio's registration-window policy hasn't been confirmed\, so cancellation status can't be reliably determined from this source yet.
+LOCATION:240 West 37th Street\, 2nd Floor\, New York\, NY 10018
+URL:https://cart.mindbodyonline.com/sites/95211/cart/add_booking?item%5Binfo%5D=Thu.+Sep+10%2C+2026++7%3A30+pm&item%5Bmbo_id%5D=38988&item%5Bmbo_location_id%5D=2&item%5Bname%5D=Brazilian+Zouk+Foundations+%28Level+1%29&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:mambo-royalty-nyc:30012646:2026-09-07@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260907T220000Z
+DTEND:20260907T225500Z
+SUMMARY:Mambo Shines - Level 1
+DESCRIPTION:Mambo Royalty NYC\\nInstructor: Cielo Gonzalez\\nVERIFIED\\nWellnessLiving's public feed gives this as a standing weekly-recurring class series\, not day-by-day confirmed bookings — there's no cancellation signal available from this source.
+LOCATION:2726 Broadway\, 2nd Floor\, New York\, NY 10025
+URL:https://www.wellnessliving.com/explore/locations/dance/us-ny-new_york/mamboroyalty/schedule/classes/
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:250969:2026-09-08@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260908T230000Z
+DTEND:20260909T003000Z
+SUMMARY:Beg Foundations of House
+DESCRIPTION:Peridance Center\\nInstructor: Miyabi Wright\\nVERIFIED\\nRegistration not yet open as of last check\; cancellation status unknown until closer to the class.
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://www.peridance.com/open-classes
+END:VEVENT
+BEGIN:VEVENT
+UID:movers-bodega:LY7IXrfQmqx2rUVlaPGx@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260907T000000Z
+DTEND:20260907T012500Z
+SUMMARY:Beginner House
+DESCRIPTION:Mover's Bodega (Modega)\\nInstructor: Static\\nVERIFIED
+LOCATION:11-05 44th Avenue\, Queens\, NY 11101
+URL:https://moversbodega.com/class
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:252229:2026-09-04@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260904T170000Z
+DTEND:20260904T183000Z
+SUMMARY:Beg Waacking
+DESCRIPTION:Peridance Center\\nInstructor: Princess Lockerooo\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Fri.+Sep++4%2C+2026++1%3A00+pm&item%5Bmbo_id%5D=252229&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Beg+Waacking&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:pmt-house-of-dance:37888:2026-09-08@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260908T210000Z
+DTEND:20260908T223000Z
+SUMMARY:Basic Hip Hop
+DESCRIPTION:PMT House of Dance\\nInstructor: Andy Needham\\nVERIFIED\\nThis studio's registration-window policy hasn't been confirmed\, so cancellation status can't be reliably determined from this source yet.
+LOCATION:28 West 25th Street\, 2nd Floor\, New York\, NY 10010
+URL:https://cart.mindbodyonline.com/sites/85966/cart/add_booking?item%5Binfo%5D=Tue.+Sep++8%2C+2026++5%3A00+pm&item%5Bmbo_id%5D=37888&item%5Bmbo_location_id%5D=1&item%5Bname%5D=+Basic+Hip+Hop&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:nieves:manhattan:18:0:Salsa Advanced Beginner – 1047 PM: Salsa Intermediate – 2048 PM: Salsa/Bachata Practice Social:2026-09-04@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260904T220000Z
+DTEND:20260904T230000Z
+SUMMARY:Salsa Advanced Beginner – 1047 PM: Salsa Intermediate – 2048 PM: Salsa/Bachata Practice Social
+DESCRIPTION:Nieves Latin Dance Studio — Manhattan\\nVERIFIED\\nThis is a standing weekly schedule template\, not a day-by-day confirmed booking feed — there's no way to detect one-off cancellations from this source.
+LOCATION:Nieves Latin Dance Studio — Manhattan
+URL:https://nievesdancestudio.com/all-4-location-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:danznik-studios-nyc:38983:2026-09-03@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260903T223000Z
+DTEND:20260903T233000Z
+SUMMARY:Brazilian Zouk Beyond Foundations (Level 2)
+DESCRIPTION:Danznik Studios\\nInstructor: Hara Zi\\nVERIFIED\\nThis studio's registration-window policy hasn't been confirmed\, so cancellation status can't be reliably determined from this source yet.
+LOCATION:240 West 37th Street\, 2nd Floor\, New York\, NY 10018
+URL:https://cart.mindbodyonline.com/sites/95211/cart/add_booking?item%5Binfo%5D=Thu.+Sep++3%2C+2026++6%3A30+pm&item%5Bmbo_id%5D=38983&item%5Bmbo_location_id%5D=2&item%5Bname%5D=Brazilian+Zouk+Beyond+Foundations+%28Level+2%29&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:pmt-house-of-dance:36798:2026-09-07@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260907T220000Z
+DTEND:20260907T233000Z
+SUMMARY:Adv. Beg. Hip Hop
+DESCRIPTION:PMT House of Dance\\nInstructor: Rich James\\nVERIFIED\\nThis studio's registration-window policy hasn't been confirmed\, so cancellation status can't be reliably determined from this source yet.
+LOCATION:28 West 25th Street\, 2nd Floor\, New York\, NY 10010
+URL:https://cart.mindbodyonline.com/sites/85966/cart/add_booking?item%5Binfo%5D=Mon.+Sep++7%2C+2026++6%3A00+pm&item%5Bmbo_id%5D=36798&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Adv.+Beg.+Hip+Hop&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:nieves:manhattan:18:0:Salsa Beginner Level – 1017 PM: Salsa Intermediate Level – 201:2026-09-08@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260908T220000Z
+DTEND:20260908T230000Z
+SUMMARY:Salsa Beginner Level – 1017 PM: Salsa Intermediate Level – 201
+DESCRIPTION:Nieves Latin Dance Studio — Manhattan\\nVERIFIED\\nThis is a standing weekly schedule template\, not a day-by-day confirmed booking feed — there's no way to detect one-off cancellations from this source.
+LOCATION:Nieves Latin Dance Studio — Manhattan
+URL:https://nievesdancestudio.com/all-4-location-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:pmt-house-of-dance:36849:2026-09-02@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260902T233500Z
+DTEND:20260903T010500Z
+SUMMARY:Adv. Beg. Hip Hop
+DESCRIPTION:PMT House of Dance\\nInstructor: Rich James\\nVERIFIED\\nThis studio's registration-window policy hasn't been confirmed\, so cancellation status can't be reliably determined from this source yet.
+LOCATION:28 West 25th Street\, 2nd Floor\, New York\, NY 10010
+URL:https://cart.mindbodyonline.com/sites/85966/cart/add_booking?item%5Binfo%5D=Wed.+Sep++2%2C+2026++7%3A35+pm&item%5Bmbo_id%5D=36849&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Adv.+Beg.+Hip+Hop&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:nieves:manhattan:18:0:Salsa Advanced Beginner Level – 103:2026-09-03@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260903T220000Z
+DTEND:20260903T230000Z
+SUMMARY:Salsa Advanced Beginner Level – 103
+DESCRIPTION:Nieves Latin Dance Studio — Manhattan\\nVERIFIED\\nThis is a standing weekly schedule template\, not a day-by-day confirmed booking feed — there's no way to detect one-off cancellations from this source.
+LOCATION:Nieves Latin Dance Studio — Manhattan
+URL:https://nievesdancestudio.com/all-4-location-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:251008:2026-09-03@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260903T230000Z
+DTEND:20260904T003000Z
+SUMMARY:Beg Foundations of House
+DESCRIPTION:Peridance Center\\nInstructor: Miyabi Wright\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Thu.+Sep++3%2C+2026++7%3A00+pm&item%5Bmbo_id%5D=251008&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Beg+Foundations+of+House&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:251248:2026-09-04@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260904T153000Z
+DTEND:20260904T170000Z
+SUMMARY:Beg House
+DESCRIPTION:Peridance Center\\nInstructor: Huu Rock\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Fri.+Sep++4%2C+2026+11%3A30+am&item%5Bmbo_id%5D=251248&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Beg+House&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:mambo-royalty-nyc:30012648:2026-09-03@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260904T000000Z
+DTEND:20260904T005500Z
+SUMMARY:Mambo Shines - Level 3
+DESCRIPTION:Mambo Royalty NYC\\nInstructor: Eduardo Torres\\nVERIFIED\\nWellnessLiving's public feed gives this as a standing weekly-recurring class series\, not day-by-day confirmed bookings — there's no cancellation signal available from this source.
+LOCATION:2726 Broadway\, 2nd Floor\, New York\, NY 10025
+URL:https://www.wellnessliving.com/explore/locations/dance/us-ny-new_york/mamboroyalty/schedule/classes/
+END:VEVENT
+BEGIN:VEVENT
+UID:mambo-royalty-nyc:30012647:2026-09-07@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260907T230000Z
+DTEND:20260907T235500Z
+SUMMARY:Mambo Partnerwork - Level 1
+DESCRIPTION:Mambo Royalty NYC\\nVERIFIED\\nWellnessLiving's public feed gives this as a standing weekly-recurring class series\, not day-by-day confirmed bookings — there's no cancellation signal available from this source.
+LOCATION:2726 Broadway\, 2nd Floor\, New York\, NY 10025
+URL:https://www.wellnessliving.com/explore/locations/dance/us-ny-new_york/mamboroyalty/schedule/classes/
+END:VEVENT
+BEGIN:VEVENT
+UID:pmt-house-of-dance:37940:2026-09-08@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260909T000000Z
+DTEND:20260909T013000Z
+SUMMARY:Intro to Hip Hop
+DESCRIPTION:PMT House of Dance\\nInstructor: Devynn Brooks\\nVERIFIED\\nThis studio's registration-window policy hasn't been confirmed\, so cancellation status can't be reliably determined from this source yet.
+LOCATION:28 West 25th Street\, 2nd Floor\, New York\, NY 10010
+URL:https://cart.mindbodyonline.com/sites/85966/cart/add_booking?item%5Binfo%5D=Tue.+Sep++8%2C+2026++8%3A00+pm&item%5Bmbo_id%5D=37940&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Intro+to+Hip+Hop&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:251328:2026-09-04@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260904T213000Z
+DTEND:20260904T230000Z
+SUMMARY:Beg Foundations of Hip Hop
+DESCRIPTION:Peridance Center\\nInstructor: Kim Holmes\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Fri.+Sep++4%2C+2026++5%3A30+pm&item%5Bmbo_id%5D=251328&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Beg+Foundations+of+Hip+Hop+&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:251747:2026-09-08@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260908T200000Z
+DTEND:20260908T213000Z
+SUMMARY:Open House
+DESCRIPTION:Peridance Center\\nInstructor: Sekou Heru\\nVERIFIED\\nRegistration not yet open as of last check\; cancellation status unknown until closer to the class.
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://www.peridance.com/open-classes
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:250609:2026-09-07@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260907T183000Z
+DTEND:20260907T200000Z
+SUMMARY:Beg House
+DESCRIPTION:Peridance Center\\nInstructor: Tony McGregor\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Mon.+Sep++7%2C+2026++2%3A30+pm&item%5Bmbo_id%5D=250609&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Beg+House&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:253989:2026-09-04@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260904T183000Z
+DTEND:20260904T200000Z
+SUMMARY:Open Dancehall
+DESCRIPTION:Peridance Center\\nInstructor: Korie Genius\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Fri.+Sep++4%2C+2026++2%3A30+pm&item%5Bmbo_id%5D=253989&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Open+Dancehall&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:pmt-house-of-dance:37454:2026-09-07@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260907T220000Z
+DTEND:20260907T233000Z
+SUMMARY:Basic/Beginner House
+DESCRIPTION:PMT House of Dance\\nInstructor: Marianna Koytsan\\nVERIFIED\\nThis studio's registration-window policy hasn't been confirmed\, so cancellation status can't be reliably determined from this source yet.
+LOCATION:28 West 25th Street\, 2nd Floor\, New York\, NY 10010
+URL:https://cart.mindbodyonline.com/sites/85966/cart/add_booking?item%5Binfo%5D=Mon.+Sep++7%2C+2026++6%3A00+pm&item%5Bmbo_id%5D=37454&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Basic%2FBeginner+House&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:pmt-house-of-dance:38254:2026-09-04@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260904T233000Z
+DTEND:20260905T010000Z
+SUMMARY:Beginner House
+DESCRIPTION:PMT House of Dance\\nInstructor: Marianna Koytsan\\nVERIFIED\\nThis studio's registration-window policy hasn't been confirmed\, so cancellation status can't be reliably determined from this source yet.
+LOCATION:28 West 25th Street\, 2nd Floor\, New York\, NY 10010
+URL:https://cart.mindbodyonline.com/sites/85966/cart/add_booking?item%5Binfo%5D=Fri.+Sep++4%2C+2026++7%3A30+pm&item%5Bmbo_id%5D=38254&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Beginner+House&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:nieves:manhattan:18:0:Salsa Advanced Beginner Level – 1027 PM: Salsa Intermediate Level – 202:2026-09-02@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260902T220000Z
+DTEND:20260902T230000Z
+SUMMARY:Salsa Advanced Beginner Level – 1027 PM: Salsa Intermediate Level – 202
+DESCRIPTION:Nieves Latin Dance Studio — Manhattan\\nVERIFIED\\nThis is a standing weekly schedule template\, not a day-by-day confirmed booking feed — there's no way to detect one-off cancellations from this source.
+LOCATION:Nieves Latin Dance Studio — Manhattan
+URL:https://nievesdancestudio.com/all-4-location-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:danznik-studios-nyc:38858:2026-09-08@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260912T220000Z
+DTEND:20260913T000000Z
+SUMMARY:Zero to Hero: Brazilian Zouk Beginner Boot Camp
+DESCRIPTION:Danznik Studios\\nInstructor: Hara Zi\\nVERIFIED\\nThis studio's registration-window policy hasn't been confirmed\, so cancellation status can't be reliably determined from this source yet.
+LOCATION:240 West 37th Street\, 2nd Floor\, New York\, NY 10018
+URL:https://cart.mindbodyonline.com/sites/95211/cart/add_booking?item%5Binfo%5D=Sat.+Sep+12%2C+2026++6%3A00+pm&item%5Bmbo_id%5D=38858&item%5Bmbo_location_id%5D=2&item%5Bname%5D=Zero+to+Hero%3A+Brazilian+Zouk+Beginner+Boot+Camp&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:mark-morris-dance-center:172699:2026-09-02@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260902T233000Z
+DTEND:20260903T010000Z
+SUMMARY:Beginner Hip-Hop
+DESCRIPTION:Mark Morris Dance Center\\nInstructor: Breanna *Myers\\nVERIFIED\\nThis studio's registration-window policy hasn't been confirmed\, so cancellation status can't be reliably determined from this source yet.
+LOCATION:3 Lafayette Avenue\, Brooklyn\, NY 11217
+URL:https://cart.mindbodyonline.com/sites/31792/cart/add_booking?item%5Binfo%5D=Wed.+Sep++2%2C+2026++7%3A30+pm&item%5Bmbo_id%5D=172699&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Beginner+Hip-Hop&item%5Btype%5D=Class&theme=legacy&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:movers-bodega:2CnRPNox6r3zpDOKjHjQ@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260903T223000Z
+DTEND:20260903T235500Z
+SUMMARY:All Levels Litefeet
+DESCRIPTION:Mover's Bodega (Modega)\\nInstructor: Mover's Bodega\, LLC\\nVERIFIED
+LOCATION:11-05 44th Avenue\, Queens\, NY 11101
+URL:https://moversbodega.com/class
+END:VEVENT
+BEGIN:VEVENT
+UID:nieves:manhattan:15:0:Salsa Advanced Beginner – 1024 PM: Salsa Intermediate – 202:2026-09-06@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260906T190000Z
+DTEND:20260906T200000Z
+SUMMARY:Salsa Advanced Beginner – 1024 PM: Salsa Intermediate – 202
+DESCRIPTION:Nieves Latin Dance Studio — Manhattan\\nVERIFIED\\nThis is a standing weekly schedule template\, not a day-by-day confirmed booking feed — there's no way to detect one-off cancellations from this source.
+LOCATION:Nieves Latin Dance Studio — Manhattan
+URL:https://nievesdancestudio.com/all-4-location-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:movers-bodega:i8iPc1w3aAi55wb5dSO5@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260907T000000Z
+DTEND:20260907T020000Z
+SUMMARY:Open Hip Hop Session
+DESCRIPTION:Mover's Bodega (Modega)\\nInstructor: Mover's Bodega\, LLC\\nVERIFIED
+LOCATION:11-05 44th Avenue\, Queens\, NY 11101
+URL:https://moversbodega.com/class
+END:VEVENT
+BEGIN:VEVENT
+UID:movers-bodega:VNcAmGgBbGcrRKjgRU5c@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260909T013000Z
+DTEND:20260909T033000Z
+SUMMARY:Open "Modega" House/Funk Session
+DESCRIPTION:Mover's Bodega (Modega)\\nInstructor: Mover's Bodega\, LLC\\nVERIFIED
+LOCATION:11-05 44th Avenue\, Queens\, NY 11101
+URL:https://moversbodega.com/class
+END:VEVENT
+BEGIN:VEVENT
+UID:movers-bodega:LylLnGI32azX3ZjGzesj@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260905T183000Z
+DTEND:20260905T195500Z
+SUMMARY:All Levels Popping
+DESCRIPTION:Mover's Bodega (Modega)\\nInstructor: Wiz\\nVERIFIED
+LOCATION:11-05 44th Avenue\, Queens\, NY 11101
+URL:https://moversbodega.com/class
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:251786:2026-09-03@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260903T200000Z
+DTEND:20260903T213000Z
+SUMMARY:Open House
+DESCRIPTION:Peridance Center\\nInstructor: Sekou Heru\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Thu.+Sep++3%2C+2026++4%3A00+pm&item%5Bmbo_id%5D=251786&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Open+House&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:pmt-house-of-dance:38496:2026-09-03@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260903T233500Z
+DTEND:20260904T010500Z
+SUMMARY:POP-UP: Hip Hop Foundations and Grooves
+DESCRIPTION:PMT House of Dance\\nInstructor: Pavan Thimmaiah\\nVERIFIED\\nThis studio's registration-window policy hasn't been confirmed\, so cancellation status can't be reliably determined from this source yet.
+LOCATION:28 West 25th Street\, 2nd Floor\, New York\, NY 10010
+URL:https://cart.mindbodyonline.com/sites/85966/cart/add_booking?item%5Binfo%5D=Thu.+Sep++3%2C+2026++7%3A35+pm&item%5Bmbo_id%5D=38496&item%5Bmbo_location_id%5D=1&item%5Bname%5D=POP-UP%3A+Hip+Hop+Foundations+and+Grooves&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:pmt-house-of-dance:37253:2026-09-04@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260904T220000Z
+DTEND:20260904T233000Z
+SUMMARY:Basic/Beginner Hip Hop
+DESCRIPTION:PMT House of Dance\\nInstructor: Shoshanna Babitt\\nVERIFIED\\nThis studio's registration-window policy hasn't been confirmed\, so cancellation status can't be reliably determined from this source yet.
+LOCATION:28 West 25th Street\, 2nd Floor\, New York\, NY 10010
+URL:https://cart.mindbodyonline.com/sites/85966/cart/add_booking?item%5Binfo%5D=Fri.+Sep++4%2C+2026++6%3A00+pm&item%5Bmbo_id%5D=37253&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Basic%2FBeginner+Hip+Hop&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:255385:2026-09-05@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260905T160000Z
+DTEND:20260905T173000Z
+SUMMARY:Open Campbellocking
+DESCRIPTION:Peridance Center\\nInstructor: Jason Lockhorn\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Sat.+Sep++5%2C+2026+12%3A00+pm&item%5Bmbo_id%5D=255385&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Open+Campbellocking&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:251568:2026-09-05@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260905T190000Z
+DTEND:20260905T203000Z
+SUMMARY:Beg Waacking
+DESCRIPTION:Peridance Center\\nInstructor: Tyrone Bevans\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Sat.+Sep++5%2C+2026++3%3A00+pm&item%5Bmbo_id%5D=251568&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Beg+Waacking&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:pmt-house-of-dance:38149:2026-09-03@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260903T233500Z
+DTEND:20260904T010500Z
+SUMMARY:Open Level House Drills
+DESCRIPTION:PMT House of Dance\\nInstructor: Jungle -\\nVERIFIED\\nThis studio's registration-window policy hasn't been confirmed\, so cancellation status can't be reliably determined from this source yet.
+LOCATION:28 West 25th Street\, 2nd Floor\, New York\, NY 10010
+URL:https://cart.mindbodyonline.com/sites/85966/cart/add_booking?item%5Binfo%5D=Thu.+Sep++3%2C+2026++7%3A35+pm&item%5Bmbo_id%5D=38149&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Open+Level+House+Drills&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:253509:2026-09-02@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260902T200000Z
+DTEND:20260902T213000Z
+SUMMARY:Beg Popping
+DESCRIPTION:Peridance Center\\nInstructor: Sun Kim\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Wed.+Sep++2%2C+2026++4%3A00+pm&item%5Bmbo_id%5D=253509&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Beg+Popping&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:252870:2026-09-07@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260907T213000Z
+DTEND:20260907T230000Z
+SUMMARY:Inter Litefeet
+DESCRIPTION:Peridance Center\\nInstructor: Quinn Brown\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Mon.+Sep++7%2C+2026++5%3A30+pm&item%5Bmbo_id%5D=252870&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Inter+Litefeet&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:252350:2026-09-07@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260907T170000Z
+DTEND:20260907T183000Z
+SUMMARY:Inter Hip Hop
+DESCRIPTION:Peridance Center\\nInstructor: Dr. Ew\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Mon.+Sep++7%2C+2026++1%3A00+pm&item%5Bmbo_id%5D=252350&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Inter+Hip+Hop+&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:252710:2026-09-07@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260907T233000Z
+DTEND:20260908T010000Z
+SUMMARY:Beg Salsa Partnering
+DESCRIPTION:Peridance Center\\nInstructor: Ahtoy Juliana | BAILA SOCIETY\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Mon.+Sep++7%2C+2026++7%3A30+pm&item%5Bmbo_id%5D=252710&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Beg+Salsa+Partnering&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:pmt-house-of-dance:36954:2026-09-06@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260906T213000Z
+DTEND:20260906T230000Z
+SUMMARY:Adv. Beg. Hip Hop
+DESCRIPTION:PMT House of Dance\\nInstructor: Tay Gresham\\nVERIFIED\\nThis studio's registration-window policy hasn't been confirmed\, so cancellation status can't be reliably determined from this source yet.
+LOCATION:28 West 25th Street\, 2nd Floor\, New York\, NY 10010
+URL:https://cart.mindbodyonline.com/sites/85966/cart/add_booking?item%5Binfo%5D=Sun.+Sep++6%2C+2026++5%3A30+pm&item%5Bmbo_id%5D=36954&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Adv.+Beg.+Hip+Hop&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:mambo-royalty-nyc:30012650:2026-09-08@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260908T230000Z
+DTEND:20260909T000000Z
+SUMMARY:Mambo Partnerwork - Level 2
+DESCRIPTION:Mambo Royalty NYC\\nVERIFIED\\nWellnessLiving's public feed gives this as a standing weekly-recurring class series\, not day-by-day confirmed bookings — there's no cancellation signal available from this source.
+LOCATION:2726 Broadway\, 2nd Floor\, New York\, NY 10025
+URL:https://www.wellnessliving.com/explore/locations/dance/us-ny-new_york/mamboroyalty/schedule/classes/
+END:VEVENT
+BEGIN:VEVENT
+UID:nieves:manhattan:15:0:Bachata Advanced Beginner Level – 1024 PM: Bachata Intermediate /advance Level – 202/302:2026-09-05@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260905T190000Z
+DTEND:20260905T200000Z
+SUMMARY:Bachata Advanced Beginner Level – 1024 PM: Bachata Intermediate /advance Level – 202/302
+DESCRIPTION:Nieves Latin Dance Studio — Manhattan\\nVERIFIED\\nThis is a standing weekly schedule template\, not a day-by-day confirmed booking feed — there's no way to detect one-off cancellations from this source.
+LOCATION:Nieves Latin Dance Studio — Manhattan
+URL:https://nievesdancestudio.com/all-4-location-schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:movers-bodega:I8laUd01a0YVTFPzxzDM@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260905T233000Z
+DTEND:20260906T005500Z
+SUMMARY:All Levels Locking
+DESCRIPTION:Mover's Bodega (Modega)\\nInstructor: Modega\\nVERIFIED
+LOCATION:11-05 44th Avenue\, Queens\, NY 11101
+URL:https://moversbodega.com/class
+END:VEVENT
+BEGIN:VEVENT
+UID:mambo-royalty-nyc:30012659:2026-09-08@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260909T000000Z
+DTEND:20260909T005500Z
+SUMMARY:Mambo Shines - Level 2
+DESCRIPTION:Mambo Royalty NYC\\nVERIFIED\\nWellnessLiving's public feed gives this as a standing weekly-recurring class series\, not day-by-day confirmed bookings — there's no cancellation signal available from this source.
+LOCATION:2726 Broadway\, 2nd Floor\, New York\, NY 10025
+URL:https://www.wellnessliving.com/explore/locations/dance/us-ny-new_york/mamboroyalty/schedule/classes/
+END:VEVENT
+BEGIN:VEVENT
+UID:danznik-studios-nyc:38987:2026-09-03@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260903T233000Z
+DTEND:20260904T003000Z
+SUMMARY:Brazilian Zouk Foundations (Level 1)
+DESCRIPTION:Danznik Studios\\nInstructor: Hara Zi\\nVERIFIED\\nThis studio's registration-window policy hasn't been confirmed\, so cancellation status can't be reliably determined from this source yet.
+LOCATION:240 West 37th Street\, 2nd Floor\, New York\, NY 10018
+URL:https://cart.mindbodyonline.com/sites/95211/cart/add_booking?item%5Binfo%5D=Thu.+Sep++3%2C+2026++7%3A30+pm&item%5Bmbo_id%5D=38987&item%5Bmbo_location_id%5D=2&item%5Bname%5D=Brazilian+Zouk+Foundations+%28Level+1%29&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:pmt-house-of-dance:37149:2026-09-05@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260905T170000Z
+DTEND:20260905T183000Z
+SUMMARY:Basic Hip Hop
+DESCRIPTION:PMT House of Dance\\nInstructor: Andy Needham\\nVERIFIED\\nThis studio's registration-window policy hasn't been confirmed\, so cancellation status can't be reliably determined from this source yet.
+LOCATION:28 West 25th Street\, 2nd Floor\, New York\, NY 10010
+URL:https://cart.mindbodyonline.com/sites/85966/cart/add_booking?item%5Binfo%5D=Sat.+Sep++5%2C+2026++1%3A00+pm&item%5Bmbo_id%5D=37149&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Basic+Hip+Hop+&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:mambo-royalty-nyc:30012658:2026-09-03@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260903T220000Z
+DTEND:20260903T225500Z
+SUMMARY:Dominican Bachata (All Levels)
+DESCRIPTION:Mambo Royalty NYC\\nInstructor: Abril Amparo\\nVERIFIED\\nWellnessLiving's public feed gives this as a standing weekly-recurring class series\, not day-by-day confirmed bookings — there's no cancellation signal available from this source.
+LOCATION:2726 Broadway\, 2nd Floor\, New York\, NY 10025
+URL:https://www.wellnessliving.com/explore/locations/dance/us-ny-new_york/mamboroyalty/schedule/classes/
+END:VEVENT
+BEGIN:VEVENT
+UID:mambo-royalty-nyc:30012649:2026-09-03@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260903T230000Z
+DTEND:20260903T235500Z
+SUMMARY:Mambo Partnerwork - Level 3
+DESCRIPTION:Mambo Royalty NYC\\nVERIFIED\\nWellnessLiving's public feed gives this as a standing weekly-recurring class series\, not day-by-day confirmed bookings — there's no cancellation signal available from this source.
+LOCATION:2726 Broadway\, 2nd Floor\, New York\, NY 10025
+URL:https://www.wellnessliving.com/explore/locations/dance/us-ny-new_york/mamboroyalty/schedule/classes/
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:250648:2026-09-02@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260902T183000Z
+DTEND:20260902T200000Z
+SUMMARY:Beg House
+DESCRIPTION:Peridance Center\\nInstructor: Kim Holmes\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Wed.+Sep++2%2C+2026++2%3A30+pm&item%5Bmbo_id%5D=250648&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Beg+House&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:251208:2026-09-03@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260903T213000Z
+DTEND:20260903T230000Z
+SUMMARY:Inter Hip Hop
+DESCRIPTION:Peridance Center\\nInstructor: Guest Artist\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Thu.+Sep++3%2C+2026++5%3A30+pm&item%5Bmbo_id%5D=251208&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Inter+Hip+Hop+&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:253789:2026-09-03@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260903T230000Z
+DTEND:20260904T003000Z
+SUMMARY:Adv Beg Salsa Partnerwork Technique
+DESCRIPTION:Peridance Center\\nInstructor: Baila Society\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Thu.+Sep++3%2C+2026++7%3A00+pm&item%5Bmbo_id%5D=253789&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Adv+Beg+Salsa+Partnerwork+Technique&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:peridance:254562:2026-09-05@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260905T203000Z
+DTEND:20260905T220000Z
+SUMMARY:Open Dancehall
+DESCRIPTION:Peridance Center\\nInstructor: Korie Genius\\nVERIFIED
+LOCATION:126 East 13th Street\, New York\, NY 10003
+URL:https://cart.mindbodyonline.com/sites/10388/cart/add_booking?item%5Binfo%5D=Sat.+Sep++5%2C+2026++4%3A30+pm&item%5Bmbo_id%5D=254562&item%5Bmbo_location_id%5D=1&item%5Bname%5D=Open+Dancehall&item%5Btype%5D=Class&theme=none&widget_type=schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:DFC46B10-DE23-4719-8C2E-88AE38DBB404@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260826T023200Z
+DTEND:20260826T033200Z
+SUMMARY:10:32
+DESCRIPTION:408 12th Avenue West\\nUNVERIFIED\\n10:32\nYour story djdomfletch dalalipop\ndancei... and 2 others\nHudson River Park's Pi...\ndes.garci.\nFollow =\nNatasha Diggs-- Abdiel present\nJANCE ELE\nMONDAY\,\nAUGUST 31\, 2026\n5PM-SUNSET\nHudson River Park's\nPier 76\, NYC\n408…
+LOCATION:408 12th Avenue West
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:DA1D2AB8-6F5E-446E-90B0-C2C78680B7D4@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260828T183000Z
+DTEND:20260828T193000Z
+SUMMARY:Peridance x Moptop Open Class
+DESCRIPTION:Peridance Center\\nUNVERIFIED\\n[debug: timing — page=0.8s socialcrawl=skipped apify=skipped resize=0.1s gemini=2.0s total=2.9s reached=page]\nPERIDANCE X MOPTOP OPEN CLASS\nMOPTOP DIRECTORS: BUDDHA STRETCH\, CALEAF SELLERS\, CEBO\, SEKOU HERU\, KIM HOLMES\,…
+LOCATION:Peridance Center
+URL:https://www.instagram.com/reel/Dcj3BT8REND/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:AE240E7F-9EC2-4294-8930-FEEA4CE8E5D5@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260828T183000Z
+DTEND:20260828T193000Z
+SUMMARY:Peridance x Moptop Open Class
+DESCRIPTION:Peridance Center\\nUNVERIFIED\\n[debug: timing — page=0.8s socialcrawl=skipped apify=skipped resize=0.1s gemini=2.0s total=2.9s reached=page]\nPERIDANCE X MOPTOP OPEN CLASS\nMOPTOP DIRECTORS: BUDDHA STRETCH\, CALEAF SELLERS\, CEBO\, SEKOU HERU\, KIM HOLMES\,…
+LOCATION:Peridance Center
+URL:https://www.instagram.com/reel/Dcj3BT8REND/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:3E4D791C-80C2-4411-8D80-F9D4CCDF485D@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260828T203000Z
+DTEND:20260828T213000Z
+SUMMARY:Peridance x Moptop Open Class
+DESCRIPTION:Peridance Center\\nUNVERIFIED\\n[debug: timing — page=0.8s socialcrawl=skipped apify=skipped resize=0.1s gemini=2.0s total=2.9s reached=page]\nPERIDANCE X MOPTOP OPEN CLASS\nMOPTOP DIRECTORS: BUDDHA STRETCH\, CALEAF SELLERS\, CEBO\, SEKOU HERU\, KIM HOLMES\,…
+LOCATION:Peridance Center
+URL:https://www.instagram.com/reel/Dcj3BT8REND/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:649FA476-C41A-42D1-8AD5-29C064CD070E@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260830T020000Z
+DTEND:20260830T030000Z
+SUMMARY:Randy Ritmo presents Queens Salsa Night
+DESCRIPTION:ALOFT LIC 27-45 JACKSON AVE LONG ISLAND CITY\, NY\\nUNVERIFIED\\n[debug: timing — apify(incl. image download)=6.0s resize=0.1s gemini=16.7s total=22.9s]\nRANDY RITMO\npresents\nQUEENS SALSA NIGHT\nBEGINNER DANCE LESSON BY JOYBOY JOACHIM • 6 PM\nSAT 8.29 6-10 PM\nALOFT LIC 27-45 JACKSON AVE…
+LOCATION:ALOFT LIC 27-45 JACKSON AVE LONG ISLAND CITY\, NY
+URL:https://www.instagram.com/p/DcUUwc_GDjV/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:C874113B-4428-4744-8047-CA24D1A79B98@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260901T230000Z
+DTEND:20260902T000000Z
+SUMMARY:Brazilian Zouk: The Zouk Life X Gab Lacarriere
+DESCRIPTION:Playwright Horizons\\nUNVERIFIED\\n[debug: timing — page=0.0s socialcrawl=2.2 apify=skipped resize=0.1s gemini=2.3s total=4.6s reached=socialcrawl]\nThe Zouk Life X Gab Lacarriere\nBrazilian Zouk\nEvery Tuesday\n7-8PM Pattern Combination\n8-9PM Pattern Mastery…
+LOCATION:Playwright Horizons
+URL:https://www.instagram.com/p/DcMa8yzmWT3/?img_index=1
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:F5D1A622-38BA-41F9-BB27-014391725228@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260901T233000Z
+DTEND:20260902T003000Z
+SUMMARY:Sunset Stoop presents Salsa Class & social
+DESCRIPTION:4114 5th Ave\\nUNVERIFIED\\n[debug: timing — page=0.6s socialcrawl=skipped apify=skipped resize=0.1s gemini=2.2s total=2.9s reached=page]\nSunset Stoop presents\nSalsa Class & social\nWeekly starting September 8th\nHosted by Lilka Mimbella\n$10 suggeste…
+LOCATION:4114 5th Ave
+URL:https://www.instagram.com/p/DcgLMhTuWal/
+END:VEVENT
+END:VCALENDAR
