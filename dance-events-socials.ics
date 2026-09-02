@@ -1,0 +1,557 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NYC Dance Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:NYC Dance Calendar — Dance Events + Socials
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:social:solas-baila-wednesdays:2026-09-02@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260903T000000Z
+DTEND:20260903T040000Z
+SUMMARY:Baila Wednesdays (Salsa Night)
+DESCRIPTION:Solas Bar NYC\\nUNVERIFIED\\nConfirmed via Solas Bar's own site (their Wednesday page is titled "Wednesday - Salsa"). Exact start/end time wasn't stated on the page — shown here matching their Tuesday/Thursday nights' typical window\, not independently confirmed for Wednesday specifically.
+LOCATION:232 East 9th Street\, New York\, NY 10003
+URL:https://www.solasbar.com/event/wednesday/
+END:VEVENT
+BEGIN:VEVENT
+UID:social:nyc-senior-zouk-social:2026-09-03@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260904T000000Z
+DTEND:20260904T043000Z
+SUMMARY:NYC Senior Zouk Social
+DESCRIPTION:NYC Zouk (Shane Rasnak)\\nUNVERIFIED\\nA weekly Thursday Brazilian Zouk social\, open to all levels\, $12 entry (Venmo/PayPal). Confirmed consistently across multiple independent listings\, but the source is a Facebook event rather than a live feed we can automatically re-check.
+LOCATION:412 8th Avenue\, 4th Floor\, New York\, NY 10001
+URL:https://www.facebook.com/events/910842166620660/
+END:VEVENT
+BEGIN:VEVENT
+UID:social:solas-bachata-thursdays:2026-09-03@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260904T000000Z
+DTEND:20260904T040000Z
+SUMMARY:Bachata Thursdays
+DESCRIPTION:Solas Bar NYC\\nUNVERIFIED\\nConfirmed via Solas Bar's own site (their Thursday page is titled "Thursday - Bachata"). Exact start/end time wasn't stated on the page — shown here as an estimate\, not independently confirmed for Thursday specifically.
+LOCATION:232 East 9th Street\, New York\, NY 10003
+URL:https://www.solasbar.com/event/thursday/
+END:VEVENT
+BEGIN:VEVENT
+UID:social:midtown-mambo:2026-09-05@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260906T010000Z
+DTEND:20260906T020000Z
+SUMMARY:Midtown Mambo
+DESCRIPTION:MAMBROSO NYC\\nUNVERIFIED\\nA newer weekly Saturday salsa/bachata social at J. Kennedy's — organizer's own Luma calendar describes it as a standing Saturday night ("Saturdays at J. Kennedy's") and lists it happening the day this was checked. End time wasn't stated anywhere found\, so it's left blank rather than guessed. Also features Bachata\, not just Salsa.
+LOCATION:8 West 38th Street\, New York\, NY 10018
+URL:https://luma.com/mambroso
+END:VEVENT
+BEGIN:VEVENT
+UID:social:ktown-saturday-bachata-night:2026-09-05@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260906T010000Z
+DTEND:20260906T061000Z
+SUMMARY:Saturday Bachata Night Social
+DESCRIPTION:Art of Sensual Bachata\\nUNVERIFIED\\nOrganizer's own event page explicitly says "Weekly Social Every Saturday\," 9pm–2:10am. They note every other Saturday adds a Zouk/Kizomba collaboration segment\, which isn't broken out separately here.
+LOCATION:38 West 32nd Street\, New York\, NY 10001 (Ktown Dance Studio)
+URL:https://www.sensualbachatanyc.com/event-details/saturday-bachata-night-social
+END:VEVENT
+BEGIN:VEVENT
+UID:social:monday-nite-hustle-jam:2026-09-07@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260908T004500Z
+DTEND:20260908T040000Z
+SUMMARY:Monday Nite Hustle Jam
+DESCRIPTION:Lori Brizzi\\nUNVERIFIED\\nA long-running weekly Monday hustle social/party (all hustle styles welcome)\, hosted by Lori Brizzi. Confirmed via a Dance Manhattan calendar listing describing it as the standing Monday night hustle jam.
+LOCATION:412 8th Avenue\, New York\, NY 10001
+URL:http://dancemanhattan.com/calendar/event/193
+END:VEVENT
+BEGIN:VEVENT
+UID:social:solas-brazilian-zouk-tuesdays:2026-09-08@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260909T000000Z
+DTEND:20260909T040000Z
+SUMMARY:Brazilian Zouk Tuesdays
+DESCRIPTION:Solas Bar NYC\\nUNVERIFIED\\nConfirmed as a real\, current weekly Tuesday Zouk night at Solas Bar via the venue's own site. Start time is not fully settled: a shared flyer says 9:30pm–12:30am\, another listing says 8pm–12am — shown here as 8pm–12am\, but check the source link for the exact time before heading over.
+LOCATION:232 East 9th Street\, New York\, NY 10003
+URL:https://www.solasbar.com/event/tuesday/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:E967BB70-F71F-4A18-868A-FBD371AC087B@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260821T230000Z
+DTEND:20260822T000000Z
+SUMMARY:Jeff Mendoza Presents AI Kryptonite
+DESCRIPTION:88 KING ST\nMANHATTAN\, NY\n\nPORT SA'ID\\nUNVERIFIED\\nJEFF MENDOZA\nPRESENTS\nAI KRYPTONITE\nAN ALL VINYL SET\n\nFRIDAY\nAUG 21 2026\n7PM-12AM\n\n88 KING ST\nMANHATTAN\, NY\n\nPORT SA'ID\nJoin me at Port Sa’id NYC for a fabulous night with food\, drinks and grooves as I play all vinyl (AI…
+LOCATION:88 KING ST\nMANHATTAN\, NY\n\nPORT SA'ID
+URL:https://www.instagram.com/p/DcSfl1mNP1y/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:6FBC4072-4B92-4828-8FA1-4EC77D078E17@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260823T051300Z
+DTEND:20260823T061300Z
+SUMMARY:1:13
+DESCRIPTION:Shared from your phone\\nUNVERIFIED\\n1:13\nrefuge.nyc • 5h\nSee translation ›\n....\nX\nREFUGE\nSATURDAYS\nAUGUST 22ND 10PM\nBURCHAN\nDESYN\nKIYOSHI\nMAX SPRAUER\n366 TEN EYCK - BKLYN NY\nTONIGHT AT REFUGE\n10PM-NOON\n10PM-1AM Skiyoshi 909\n1AM-5AM Gdesynmas\n5AM-9AM Gbrchn…
+LOCATION:Shared from your phone
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:D17F33F3-142B-4C36-833A-A3A13E9EFD76@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260823T052400Z
+DTEND:20260823T062400Z
+SUMMARY:1:24
+DESCRIPTION:642 Rogers Ave BK\, NY\\nUNVERIFIED\\n1:24\nView likes\nnostaticcomedy Can you... details\nDELA\nthedeianyc\nAd\nFollow\n=\nBROOKLYN JAY\nJUNZIE J\nSUN\n6 PM\nSOCA I REGGAE I HIP HOP I R&B\nDEIÀ\n642 Rogers Ave BK\, NY\nVisit Instagram profile\n25\n1\n1\nFollowed by ru_dupuy an…
+LOCATION:642 Rogers Ave BK\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:4370C559-C1F3-4DC6-9FF2-C7F6B3AE46E5@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260825T220600Z
+DTEND:20260825T230600Z
+SUMMARY:hustle 6\, salsa 7
+DESCRIPTION:AT CTRL PARK\\nUNVERIFIED\\n11:56 A\n~Glenda Heffer\n8/24/26\, 5:06PM\nSALSA HUSTLE\nAT CTRL PARK\nMONDAY AUG 24TH\nEVERY\nDJ RAY VEGA\nHUSTLE W/\nSALSA W/\nRON ROSARIO\nLA MAMBERA\n6:00 PM\n7:00 PM\nBY LUCY G•\nLISA\nAT THE CTRL PARK BETHESDA FOUNTAIN\, 72N ST. NY\,…
+LOCATION:AT CTRL PARK
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:1CA828EA-34DE-499B-ACDF-1286BB737BDE@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260828T010000Z
+DTEND:20260828T020000Z
+SUMMARY:Salsa Na'Ma!
+DESCRIPTION:UNION POOL\\nUNVERIFIED\\n[debug: timing — page=0.6s socialcrawl=skipped apify=skipped resize=0.0s gemini=1.4s total=2.0s reached=page]\nSALSA NA'MA!\nTHURSDAY\, AUGUST 27th\nUNION POOL\n9PM SHARP!\nrecordsbywoof on August 26\, 2026: "The LAST SALSA NA’…
+LOCATION:UNION POOL
+URL:https://www.instagram.com/p/DcgYMuhFl1P/?img_index=1
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:7C49213C-B2AC-44A2-9373-3C3B3D867F04@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260828T170000Z
+DTEND:20260828T180000Z
+SUMMARY:Sofrito Restaurant & Bar Presents Summer Saturdays Salsa Outdoor Patio Dance Party & Hustle
+DESCRIPTION:Sofrito Restaurant & Bar\, 679 Riverside Dr\, New York\, NY 10031\\nUNVERIFIED\\nSUMMER SATURDAYS\nSALSA OUTDOOR PATIO DANCE PARTY & HUSTLE\nFREE EVENT\nFREE PARKING (lower level)\nHustle Class 1:00-2:00PM\nSalsa Class 2:00-3:00PM\nMusic 3:00-5:00PM\nFREE ENTRY | MUSIC | DRINKS | FUN\n212 754-5999
+LOCATION:Sofrito Restaurant & Bar\, 679 Riverside Dr\, New York\, NY 10031
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:AE096121-C65A-43EA-A40E-2EE3B31EEE76@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260829T020000Z
+DTEND:20260829T030000Z
+SUMMARY:MoMA PS1 Warm Up
+DESCRIPTION:MoMA PS1\\nUNVERIFIED\\n[debug: timing — page=0.7s socialcrawl=skipped apify=skipped resize=0.1s gemini=3.5s total=4.3s reached=page]\nMoMA PS1\nWarm Up Aug 28\nKEIYAA\nThe last Warm Up of the summer is this Friday at MoMA PS1. TDJ. De Schuurman. k…
+LOCATION:MoMA PS1
+URL:https://www.instagram.com/p/DceeS-EAVon/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:2A25016A-3500-439A-844B-B8B126093CFA@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260829T160000Z
+DTEND:20260829T170000Z
+SUMMARY:BK ❤️ MJ Block Party
+DESCRIPTION:Fort Greene Park\, Fort Greene Brooklyn\, NY\\nUNVERIFIED\\n[debug: timing — page=0.7s socialcrawl=skipped apify=skipped resize=0.1s gemini=2.8s total=3.6s reached=page]\nJORDAN BRAND PRESENTS A SPIKE LEE JOINT\nBK ❤️ MJ\nSAT AUG 29\n12 NOON - 7PM\nMUSIC BY DJ SPINNA\nBLOCK PARTY\nFORT G…
+LOCATION:Fort Greene Park\, Fort Greene Brooklyn\, NY
+URL:https://www.instagram.com/p/DclqV0JRMUW/?igsi=MXd0OHZwcDdyeWo3dg==
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:244DF93A-2359-4C85-96D2-835207921923@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260829T160000Z
+DTEND:20260829T170000Z
+SUMMARY:Chaos in the CBD Present Dust Till Dawn
+DESCRIPTION:KNOCKDOWN CENTER\\nUNVERIFIED\\n[debug: timing — page=0.7s socialcrawl=skipped apify=skipped resize=0.1s gemini=2.5s total=3.2s reached=page]\nCHAOS IN THE CBD PRESENT 'DUST TILL DAWN'\nRUINS\nCHAOS IN THE CBD\nJOE CLAUSSELL\nSHY ONE\nAUG 29TH\nKDC\nCHAOS IN T…
+LOCATION:KNOCKDOWN CENTER
+URL:https://www.instagram.com/p/DcOyv0RFHOb/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:1F1818F8-AA6A-45D5-96CA-053963F71B95@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260829T200000Z
+DTEND:20260829T210000Z
+SUMMARY:Salsa and Bachata at the Bandshell
+DESCRIPTION:the Bandshell Central Park\\nUNVERIFIED\\nSalsa and Bachata\nat the Bandshell\nCentral Park\nSaturday Agoust 29\nFrom 4pm to 8 pm\nSalsa Class at 4pm\nBy JJ\nDJ Sal Presents
+LOCATION:the Bandshell Central Park
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:C1EC66A5-30D9-4A7B-BB44-ADCEFCD44202@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260829T200000Z
+DTEND:20260829T210000Z
+SUMMARY:Laziza x Soul Summit Backyard Party
+DESCRIPTION:306A Malcom X Blvd\, Bedstuy\\nUNVERIFIED\\nLAZIZA x SOUL SUMMIT BACKYARD PARTY\nAUG 29 SAT / 4-10PM\n306A MALCOM X BLVD | BEDSTUY
+LOCATION:306A Malcom X Blvd\, Bedstuy
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:B101DCD2-3E24-48BA-91C2-9482D8FC3E32@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260829T203000Z
+DTEND:20260829T213000Z
+SUMMARY:The Soapbox Presents: Stoop Sessions\, For the Love of House
+DESCRIPTION:JEFFERSON AVE BT NOSTRAND & MARCY\\nUNVERIFIED\\n[debug: timing — page=0.6s socialcrawl=skipped apify=skipped resize=0.1s gemini=2.6s total=3.2s reached=page]\nTHE SOAPBOX PRESENTS\nSTOOP SESSIONS:\nFOR THE LOVE OF HOUSE\nSATURDAY\, AUGUST 29TH\n4:30 SOUL SUMMIT\n5:30 LIVE MU…
+LOCATION:JEFFERSON AVE BT NOSTRAND & MARCY
+URL:https://www.instagram.com/reel/DchLSmzOStA/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:A496E217-91CF-48B3-A056-7679BC42851F@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260829T203000Z
+DTEND:20260829T213000Z
+SUMMARY:The Soapbox Presents: Stoop Sessions\, For the Love of House
+DESCRIPTION:Jefferson Ave bt Nostrand & Marcy\, Bed-Stuy\, Brooklyn\, NY\\nUNVERIFIED\\n[debug: timing — page=0.7s socialcrawl=skipped apify=skipped resize=0.1s gemini=2.3s total=3.1s reached=page]\nTHE SOAPBOX PRESENTS\nSTOOP SESSIONS:\nFOR THE LOVE OF HOUSE\nSATURDAY\, AUGUST 29TH\n4:30 SOUL SUMMIT\n5:30 LIVE MU…
+LOCATION:Jefferson Ave bt Nostrand & Marcy\, Bed-Stuy\, Brooklyn\, NY
+URL:https://www.instagram.com/reel/Dcl_4l4OpRh/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:8058CD15-A292-4D60-9452-57E9C10F8077@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260829T220000Z
+DTEND:20260829T230000Z
+SUMMARY:Herbert Holler Freedom Outside
+DESCRIPTION:BROOKLYN BRIDGE PARK PIER 6\\nUNVERIFIED\\n[debug: timing — page=0.6s socialcrawl=skipped apify=skipped resize=0.1s gemini=2.8s total=3.5s reached=page]\nHERBERT HOLLER\nFREEDOM OUTSIDE\nHISTORY'S LONGEST RUNNING THROWBACK NIGHT\nAUG 29TH\nBROOKLYN BRIDGE PARK\n6PM - 1…
+LOCATION:BROOKLYN BRIDGE PARK PIER 6
+URL:https://www.instagram.com/p/DceMphuFKeQ/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:3F9BCA59-9051-41FD-9F88-39A167A1418C@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260829T220000Z
+DTEND:20260829T230000Z
+SUMMARY:Summer on the Hudson Vinyl Nights
+DESCRIPTION:Riverside Park\, PIER i West 70th St.\\nUNVERIFIED\\nSummer on the Hudson Riverside Park\nSat 8/29/26 6pm-9:30pm\nVINYL NIGHTS\nPresented by Rebecca Lynn\nOperator Emz\nMisbehaviour\nPIER i West 70th St.
+LOCATION:Riverside Park\, PIER i West 70th St.
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:F45D9C84-07BF-4B3B-A42D-BD8A995FB1F8@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260830T003000Z
+DTEND:20260830T013000Z
+SUMMARY:Big & Loud: Heat
+DESCRIPTION:Paris\\nUNVERIFIED\\n[debug: timing — page=0.7s socialcrawl=skipped apify=skipped resize=0.1s gemini=2.8s total=3.5s reached=page]\nBIG & LOUD!\n70MM\, ATMOS AND AUDIO-OBSESSIVE CINEMA\nHEAT\n4K\nHappy birthday\, Robert De Niro! \n\nSee the Academy A…
+LOCATION:Paris
+URL:https://www.instagram.com/p/DcI_PKJDJYs/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:34732143-BFB1-45C0-ADDC-526D14FB4998@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260830T004500Z
+DTEND:20260830T014500Z
+SUMMARY:Bat Watching & Star Gazing at Green-Wood Cemetery
+DESCRIPTION:Green-Wood Cemetery (Meeting Point: The Gothic Arch\, 5th Ave)\\nUNVERIFIED\\n[debug: timing — page=0.4s socialcrawl=skipped apify=skipped resize=0.1s gemini=2.2s total=2.7s reached=page]\nUrban Bat Project NYC invites you to join us in celebrating an incredible field season with an evening of\nBat…
+LOCATION:Green-Wood Cemetery (Meeting Point: The Gothic Arch\, 5th Ave)
+URL:https://www.instagram.com/p/DcBnffEji2K/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:ACD18E6E-738E-4E73-9319-B2BECCFA1FDB@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260830T023000Z
+DTEND:20260830T033000Z
+SUMMARY:Jumpin Thumpin
+DESCRIPTION:Soho Live 94 Lafayette Street New York\, NY 10013\\nUNVERIFIED\\n[debug: timing — page=0.5s socialcrawl=skipped apify=skipped resize=0.1s gemini=4.7s total=5.3s reached=page]\nJumpin Thumpin\nDeep Soulful Classic House Music\nSaturday August 29th 2026 10:30pm - 4am\nMike Nasty & Josh Hubi…
+LOCATION:Soho Live 94 Lafayette Street New York\, NY 10013
+URL:https://www.instagram.com/p/DcPcjV0moCJ/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:FBA37525-E729-40D7-872D-D79F3E2951BB@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260830T160000Z
+DTEND:20260830T170000Z
+SUMMARY:Uptown Vinyl Supreme x YiuYiu
+DESCRIPTION:Beauty Bar\n231 E. 14th St.\nNY\,NY\\nUNVERIFIED\\n[debug: timing — page=0.8s socialcrawl=skipped apify=skipped resize=0.1s gemini=3.4s total=4.3s reached=page]\nuptown\nvinyl\nsupreme\nx\nyiuyiu\n5 DJs\n0 cover\nbuddy's bday(!)\none night only\nSurprise Beautiful People! \n\nThe wh…
+LOCATION:Beauty Bar\n231 E. 14th St.\nNY\,NY
+URL:https://www.instagram.com/p/DcMD2h8kVl1/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:B15B623E-7300-45E2-A29E-A28EF0D80884@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260830T180000Z
+DTEND:20260830T190000Z
+SUMMARY:NEWARK
+DESCRIPTION:Shared from your phone\\nUNVERIFIED\\nNEWARK\nCITY PARKS\nFOUNDATION\nICTORPORATED TAD\nDRUM\nNEWARK\nARTS AND EDUCATION DISTRICT\n• Prudential\nSUNDAY\nSEPTEMBER 6™H.\n"\, 2026\nMILITARY PARK\nNEWARK\, NJ\n2PM - 8PM\nDJ MIDDY & JIHAD MUHAMMAD\nTO RESERVE YOUR SPOT OR FOR MO…
+LOCATION:Shared from your phone
+URL:https://www.instagram.com/p/DcehF6FoZRA/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:4FF73DAA-B8AF-4EDE-93AA-C17A138EDA44@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260830T210000Z
+DTEND:20260830T220000Z
+SUMMARY:Capicu x La Clave
+DESCRIPTION:CAROUSEL\\nUNVERIFIED\\n[debug: timing — page=0.8s socialcrawl=skipped apify=skipped resize=0.1s gemini=3.4s total=4.3s reached=page]\nSPONSORED BY:\nTEN TO ONE RUM\n+\nROSALUNA\n\nSTRICTLY VINYL\n\nSALSA & DOMINOS PARTY at CAROUSEL\n\nMUSIC SELECTION BY…
+LOCATION:CAROUSEL
+URL:https://www.instagram.com/p/DcUSM5AFA6q/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:DEF16DA7-6687-4628-BFCE-E51A455E2261@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260830T210000Z
+DTEND:20260830T220000Z
+SUMMARY:Capicu x La Clave
+DESCRIPTION:CAROUSEL\\nUNVERIFIED\\n[debug: timing — page=0.7s socialcrawl=skipped apify=skipped resize=0.1s gemini=3.3s total=4.1s reached=page]\nSUNDAY • AUG 30TH • 5PM-1AM\nCAPICU!\nSTRICTLY VINYL\nLA CLAVE\nSALSA & DOMINOS PARTY at CAROUSEL\nMUSIC SELECTION…
+LOCATION:CAROUSEL
+URL:https://www.instagram.com/p/DcUSM5AFA6q/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:2C3EB573-6F28-4711-8064-3496CB595BE1@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260830T220000Z
+DTEND:20260830T230000Z
+SUMMARY:The Ritual with Anané & Louie Vega
+DESCRIPTION:HOLO\n1090 WYCKOFF AVE\nRIDGEWOOD\, BROOKLYN\\nUNVERIFIED\\n[debug: timing — page=0.6s socialcrawl=0.6 apify=skipped resize=0.1s gemini=6.1s total=7.5s reached=socialcrawl]\nWITH\nANANÉ & LOUIE VEGA\nThe Ritual with Anan&#xe9\; & Louie Vega makes its homecoming at H0L0 on Sunday Afte…
+LOCATION:HOLO\n1090 WYCKOFF AVE\nRIDGEWOOD\, BROOKLYN
+URL:https://www.instagram.com/p/DcMbvSIJj2-/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:24B1FA50-89A3-4FAE-A3AB-23342249A723@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260831T210000Z
+DTEND:20260831T220000Z
+SUMMARY:Natasha Diggs + Abdiel present
+DESCRIPTION:408 12th Avenue West\\nUNVERIFIED\\n5:20\nToday\n10:38 AM\n\nNatasha Diggs + Abdiel present\nDANCE is LIFE\n\nMONDAY\,\nAUGUST 31\, 2026\n5PM-SUNSET\nHudson River Park's\nPier 76\, NYC\n408 12th Avenue West\nNew York\, NY 10018\n\nSPECIAL GUEST DJ\nKS360\n\n@DANCEISLIFENYC 💗 DA…
+LOCATION:408 12th Avenue West
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:F7573C9C-E1B9-48D9-9A83-BA534C8074DD@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260831T210000Z
+DTEND:20260831T220000Z
+SUMMARY:Natasha Diggs + Abdiel present
+DESCRIPTION:408 12th Avenue West\\nUNVERIFIED\\n5:204\n<\nToday\n10:38 AM\nNatasha Diggs + Abdiel present\nDANCEWELE\nMONDAY\,\nAUGUST 31\, 2026\n5PM-SUNSET\nHudson River Park's\nPier 76\, NYC\n408 12th Avenue West\nYork\, NY 10018\nSPECIAL GI\n@DANCEISLIFENYC • DANCEISLIFE.LOVE
+LOCATION:408 12th Avenue West
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:7B12949C-5E5B-4591-BB9B-A35E1A2B25F4@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260831T210000Z
+DTEND:20260831T220000Z
+SUMMARY:5:204
+DESCRIPTION:408 12th Avenue West\\nUNVERIFIED\\n5:204\n<\nToday\n10:38 AM\nNatasha Diggs + Abdiel present\nDANCEWELE\nMONDAY\,\nAUGUST 31\, 2026\n5PM-SUNSET\nHudson River Park's\nPier 76\, NYC\n408 12th Avenue West\nYork\, NY 10018\nSPECIAL GI\n@DANCEISLIFENYC • DANCEISLIFE.LOVE
+LOCATION:408 12th Avenue West
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:36B754CE-7057-4A83-B0A5-3160A6450ED2@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260901T010000Z
+DTEND:20260901T020000Z
+SUMMARY:Dance is Life
+DESCRIPTION:Pier 76 at W 34 St.\\nUNVERIFIED\\n[debug: timing — page=0.0s socialcrawl=2.4 apify=skipped resize=0.1s gemini=4.1s total=6.6s reached=socialcrawl]\nGet ready to move\, groove and hustle at Pier 76!\n\nJoin us for Dance is Life on Monday\, August 31. Inspired…
+LOCATION:Pier 76 at W 34 St.
+URL:https://www.instagram.com/p/DchPJo5EpcT/?img_index=2
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:7597C0E9-4A5D-4117-91ED-89ACBABE78FA@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260902T120000Z
+DTEND:20260902T130000Z
+SUMMARY:September 2026 Hustle Club — DJ RClass & Billy Marti
+DESCRIPTION:Imperial Ballroom\, 27-29 Division St\\nUNVERIFIED\\n[debug: timing — page=0.7s socialcrawl=skipped apify=skipped resize=0.1s gemini=3.0s total=3.8s reached=page]\nHustle Club\n9.02 DJ Rclass\, beginner class w/ Billy Marti\n9.16 DJ Nelson Paradise Roman\, beginner class w/ Tyb…
+LOCATION:Imperial Ballroom\, 27-29 Division St
+URL:https://www.instagram.com/p/DckZM2pNYWf/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:8BD34C2C-DA34-4F85-BCFB-7378C40ECA32@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260905T180000Z
+DTEND:20260905T190000Z
+SUMMARY:SanDia
+DESCRIPTION:Nowadays\, New York\\nUNVERIFIED\\n[debug: timing — page=0.7s socialcrawl=skipped apify=skipped resize=0.1s gemini=3.0s total=3.8s reached=page]\nREAL HOUSE MUSIC. REAL DANCING.\nSAT\, SEPTEMBER 5TH 2-8PM\nNOWADAYS\, NEW YORK\nReal House music. Real dancing. No…
+LOCATION:Nowadays\, New York
+URL:https://www.instagram.com/reel/DcmXNLzRo5a/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:344D4331-44CF-4322-AC55-87C07CFE7C5A@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260906T010000Z
+DTEND:20260906T020000Z
+SUMMARY:NYC Senior Zouk Social
+DESCRIPTION:@ Little Dreams Event Space\\nUNVERIFIED\\nNYC Senior Zouk Social\nSaturday\, September 5 at 9:00 PM\n@ Little Dreams Event Space\n412 8th Ave\, New York\, NY\nCome dance with us! #zouk #nycdance
+LOCATION:@ Little Dreams Event Space
+URL:https://instagram.com/p/sample123
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:67FCC0B2-F862-49E2-95EB-089580726673@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260906T220000Z
+DTEND:20260906T230000Z
+SUMMARY:Labor of Love Community Day
+DESCRIPTION:Domino Square\, Domino Park\, Brooklyn\, NY\\nUNVERIFIED\\n[debug: timing — page=0.5s socialcrawl=skipped apify=skipped resize=0.1s gemini=2.6s total=3.2s reached=page]\nLABOR OF LOVE COMMUNITY DAY\nat Domino Park\nSunday\, September 6\n2-6 PM\nDomino Square\nThis Labor Day\, the party…
+LOCATION:Domino Square\, Domino Park\, Brooklyn\, NY
+URL:https://www.instagram.com/p/DcT4fRCxBZ9/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:AF5A0741-7D85-4A6F-9DB6-8E5880C796C2@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260907T160000Z
+DTEND:20260907T170000Z
+SUMMARY:Soul Summit
+DESCRIPTION:The Ruins at Knockdown Center\\nUNVERIFIED\\n[debug: timing — page=0.0s socialcrawl=2.3 apify=skipped resize=0.1s gemini=2.3s total=4.7s reached=socialcrawl]\nSoul Summit\nSept 7\nRUINS\nknockdown.center\nJust Announced: Soul Summit returns to The Ruins with a classic L…
+LOCATION:The Ruins at Knockdown Center
+URL:https://www.instagram.com/p/Dclvl_jjldm/?img_index=1
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:9057E2B2-92EA-4256-86E0-1DFF125E3D56@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260909T220000Z
+DTEND:20260909T230000Z
+SUMMARY:Salsa by the Water — Ocho Con Clave
+DESCRIPTION:Domino Square\\nUNVERIFIED\\n[debug: timing — page=0.6s socialcrawl=skipped apify=skipped resize=0.2s gemini=2.8s total=3.6s reached=page]\nSALSA BY THE WATER\nat Domino Park\nAugust 12 & 26\nSeptember 9 & 23\n6 - 9 PM\nDomino Square\nIf your Wednesday pla…
+LOCATION:Domino Square
+URL:https://www.instagram.com/p/Db3mx2-xf1W/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:249BF174-5465-42A3-9129-C372AFFBE215@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260913T000000Z
+DTEND:20260913T010000Z
+SUMMARY:Everybody Loves Roy Ayers
+DESCRIPTION:@ THE SPINNAVERSE - BK NY 11237\\nUNVERIFIED\\n[debug: timing — page=0.6s socialcrawl=0.2 apify=skipped resize=0.1s gemini=3.9s total=4.7s reached=socialcrawl]\nKEISTAR PRODUCTIONS + DJ SPINNA + COOHCATGROUP PRESENT\nEVERYBODY LOVES ROY AYERS\nA TRIBUTE TO THE MUSIC & L…
+LOCATION:@ THE SPINNAVERSE - BK NY 11237
+URL:https://www.instagram.com/p/DceBZgaS4LX/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:AD531DE8-9567-4C49-8E88-7D8980F324E9@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260913T160000Z
+DTEND:20260913T170000Z
+SUMMARY:the a3rd annual
+DESCRIPTION:Shared from your phone\\nUNVERIFIED\\nthe a3rd annual\nClubhouse\ndambored\nSUNDAY SEPTEMBER I3TH 2026\nNOON-7PM AT THE MUSIC PAGODA\nPROSPECT PARK\nBROOKLYN-NYC\nDO DESI\nLAN ROCK\nKATEA\nMARK FRANCIS\nDJ SPINNA\nPERFORMING ARTIST\nKEITH THOMPSON\nBREAK G LOVE\, TEK IT\nCR…
+LOCATION:Shared from your phone
+URL:https://www.instagram.com/p/DccAofdyNRP/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:E3DEC98C-0819-429D-84A3-00960D639C75@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260913T160000Z
+DTEND:20260913T170000Z
+SUMMARY:33rd Annual ClubHouse Jamboree
+DESCRIPTION:PROSPECT PARK BK PAGODA\\nUNVERIFIED\\n[debug: timing — page=0.8s socialcrawl=skipped apify=skipped resize=0.0s gemini=1.2s total=2.0s reached=page]\n33 YEARS AND GOING\ndonate https://gofund.me/929ae36c8\n!!ATTENTION | ATTENTION | ATTENTION!!\n\nMeet your DJs and…
+LOCATION:PROSPECT PARK BK PAGODA
+URL:https://www.instagram.com/p/Dbu2Ex-lrkP/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:C65C7EFA-8514-4F33-BCA6-14E6F44951A2@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260916T000000Z
+DTEND:20260916T010000Z
+SUMMARY:Theo Croker x Nicholas Daley: Sonic Tapestry
+DESCRIPTION:Blue Note NEW YORK\\nUNVERIFIED\\n[debug: timing — socialcrawl=3.3s apify_fallback=skipped resize=0.1s gemini=2.4s total=5.8s]\nTHEO CROKER x NICHOLAS DALEY:\nSONIC TAPESTRY
+LOCATION:Blue Note NEW YORK
+URL:https://www.instagram.com/p/Da3JnSasOgN/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:F2CFA988-9E57-4755-ADE5-7212FF6A9BEC@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260916T120000Z
+DTEND:20260916T130000Z
+SUMMARY:September 2026 Hustle Club — DJ Nelson Paradise Roman & Tybalt Ulrich
+DESCRIPTION:Imperial Ballroom\, 27-29 Division St\\nUNVERIFIED\\n[debug: timing — page=0.7s socialcrawl=skipped apify=skipped resize=0.1s gemini=3.0s total=3.8s reached=page]\nHustle Club\n9.02 DJ Rclass\, beginner class w/ Billy Marti\n9.16 DJ Nelson Paradise Roman\, beginner class w/ Tyb…
+LOCATION:Imperial Ballroom\, 27-29 Division St
+URL:https://www.instagram.com/p/DckZM2pNYWf/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:5142E043-2E09-463E-AFBE-E339D7879F70@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260919T180000Z
+DTEND:20260919T190000Z
+SUMMARY:After one year\, @uplifted.nyc has returned.
+DESCRIPTION:nowadays\\nUNVERIFIED\\nAfter one year\, @uplifted.nyc has returned. \n\nOver 600 of you joined me last year at Industry City to celebrate my inaugural event Uplifted (formally known as Honey Bee) that celebrates Black house DJs. We had dancers fr…
+LOCATION:nowadays
+URL:https://www.instagram.com/p/Dcd6TuOkWIA/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:130BB825-A104-47A8-9858-921FB127A578@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260919T200000Z
+DTEND:20260919T210000Z
+SUMMARY:Deep Into Soul
+DESCRIPTION:93 FEET EAST\\nUNVERIFIED\\n[debug: timing — socialcrawl=7.6s apify_fallback=skipped resize=0.1s gemini=3.5s total=11.2s]\nDEEP INTO SOUL\n4 SPACES OF MUSIC\nROOM 1:\nQUENTIN HARRIS\nMARK FRANCIS\nNEIL PIERCE\nREMI ROSE\nROOM 2:\nCOFLO\nCRAIG SMITH\nDREY\nSY S…
+LOCATION:93 FEET EAST
+URL:https://www.instagram.com/reel/DcJvud2vKg2/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:1FFC1409-F3EA-4561-96FF-27F2B48FFB3D@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260923T220000Z
+DTEND:20260923T230000Z
+SUMMARY:Salsa by the Water — Orquesta De Nieves
+DESCRIPTION:Domino Square\\nUNVERIFIED\\n[debug: timing — page=0.6s socialcrawl=skipped apify=skipped resize=0.2s gemini=2.8s total=3.6s reached=page]\nSALSA BY THE WATER\nat Domino Park\nAugust 12 & 26\nSeptember 9 & 23\n6 - 9 PM\nDomino Square\nIf your Wednesday pla…
+LOCATION:Domino Square
+URL:https://www.instagram.com/p/Db3mx2-xf1W/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:1D86B715-192E-44AC-A05D-A2756D0F526C@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260925T013000Z
+DTEND:20260925T023000Z
+SUMMARY:Hustle Jam
+DESCRIPTION:L.I.C.'s MODEGA\, 11-05 44th Ave\\nUNVERIFIED\\nHustle Jam\nThe Music Never Ends\nJoin us Sept. 24th\n9:30pm - 12:30am at\nL.I.C.'s MODEGA\n11-05 44th Ave\nEasy access to the E G 7 Trains\nPlenty of Parking\n$20\nCome Share The Experience\nDJ STEVE\nDJ OSCAR
+LOCATION:L.I.C.'s MODEGA\, 11-05 44th Ave
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:14EE8F2A-5AE9-4E8A-BDF3-5790EBCFFF1A@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260926T160000Z
+DTEND:20260926T170000Z
+SUMMARY:Daybreaker Alive : NYC
+DESCRIPTION:Brooklyn Bridge Park Pier 3\\nUNVERIFIED\\n[debug: timing — page=0.8s socialcrawl=skipped apify=skipped resize=0.2s gemini=2.9s total=4.0s reached=page]\nDAYBREAKER\nALIVE : NYC\nFREE\nSEPT. 26 · BROOKLYN BRIDGE PARK PIER 3\nSUNRISE TO SUNSET SOBER FESTIVAL\nWITH NEW Y…
+LOCATION:Brooklyn Bridge Park Pier 3
+URL:https://www.instagram.com/p/DcohggMkfk8/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:62240A05-1C59-4BC1-BAF3-29ACBF2E0097@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260927T190000Z
+DTEND:20260928T050000Z
+SUMMARY:Timmy Regisford Presents: A Trip Down Memory Lane Part 3
+DESCRIPTION:Public Records\, 233 Butler St\, Brooklyn\, NY\\nUNVERIFIED\\n[debug: timing — page=0.9s socialcrawl=skipped apify=skipped resize=0.1s gemini=4.0s total=5.0s reached=page]\nTIMMY REGISFORD Presents:\nA Trip Down Memory Lane\nPART 3\nSunday Sept 27\, 2026\n3 PM - 1 AM at:\nPUBLIC RECORDS\n2…
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY
+URL:https://www.instagram.com/p/DcCbO5nnaUv/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:BF7BEB1A-D430-454A-8185-EFE81C8B2114@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20260930T120000Z
+DTEND:20260930T130000Z
+SUMMARY:September 2026 Hustle Club — DJ Still1 & Taylor
+DESCRIPTION:Imperial Ballroom\, 27-29 Division St\\nUNVERIFIED\\n[debug: timing — page=0.7s socialcrawl=skipped apify=skipped resize=0.1s gemini=3.0s total=3.8s reached=page]\nHustle Club\n9.02 DJ Rclass\, beginner class w/ Billy Marti\n9.16 DJ Nelson Paradise Roman\, beginner class w/ Tyb…
+LOCATION:Imperial Ballroom\, 27-29 Division St
+URL:https://www.instagram.com/p/DckZM2pNYWf/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:D0939003-C9F3-4C31-961D-C41E5AB8CA02@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20261010T160000Z
+DTEND:20261010T170000Z
+SUMMARY:Weequahic Park House Music Festival
+DESCRIPTION:Weequahic Park\\nUNVERIFIED\\n[debug: timing — page=0.9s socialcrawl=skipped apify=skipped resize=0.2s gemini=9.0s total=10.0s reached=page]\nCOUNTY OF ESSEX NEW JERSEY\nWEEQUAHIC PARK\nHouse Music\nFESTIVAL\nOCTOBER 10th 2026\n12:00PM - 10:00PM\nMORE INFO…
+LOCATION:Weequahic Park
+URL:https://www.instagram.com/p/DcmuuVCDMR6/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:9E440C36-3266-47FE-8583-934A421DEF77@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20261010T180000Z
+DTEND:20261010T190000Z
+SUMMARY:Cameron & Mo's Bar Presents The Final Block Party of the Year!
+DESCRIPTION:80 LAFAYETTE AVE BROOKLYN\, NY 11217\\nUNVERIFIED\\n[debug: timing — page=0.4s socialcrawl=skipped apify=skipped resize=0.1s gemini=4.0s total=4.5s reached=page]\nCAMERON & MO'S BAR PRESENTS\nTHE FINAL BLOCK PARTY OF THE YEAR!\nOUR BLOCK. OUR COMMUNITY. OUR VIBES.\nLIVE DJ &…
+LOCATION:80 LAFAYETTE AVE BROOKLYN\, NY 11217
+URL:https://www.instagram.com/p/Dcb6I4eOCNj/
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:D206C999-5650-4C11-BEBE-DECD06BB59CA@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20261022T230000Z
+DTEND:20261023T000000Z
+SUMMARY:Nightfall
+DESCRIPTION:Green-Wood\\nUNVERIFIED\\n[debug: timing — page=0.0s socialcrawl=3.4 apify=skipped resize=0.1s gemini=2.6s total=6.1s reached=socialcrawl]\nNIGHTFALL\nOCTOBER 22ND & 23RD\, 7-10:30PM\nEARLY BIRD TICKETS ARE LIVE!\nSAVE UP TO $15 THROUGH LABOR DAY.\nNIG…
+LOCATION:Green-Wood
+URL:https://www.instagram.com/p/DblnjsZCXUE/?img_index=1
+END:VEVENT
+BEGIN:VEVENT
+UID:captured:9875BF57-EC82-49FF-9773-1C79E19C5F3A@nycdancecalendar.local
+DTSTAMP:20260902T041435Z
+DTSTART:20261023T230000Z
+DTEND:20261024T000000Z
+SUMMARY:Nightfall
+DESCRIPTION:Green-Wood\\nUNVERIFIED\\n[debug: timing — page=0.0s socialcrawl=3.4 apify=skipped resize=0.1s gemini=2.6s total=6.1s reached=socialcrawl]\nNIGHTFALL\nOCTOBER 22ND & 23RD\, 7-10:30PM\nEARLY BIRD TICKETS ARE LIVE!\nSAVE UP TO $15 THROUGH LABOR DAY.\nNIG…
+LOCATION:Green-Wood
+URL:https://www.instagram.com/p/DblnjsZCXUE/?img_index=1
+END:VEVENT
+END:VCALENDAR
