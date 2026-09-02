@@ -7,150 +7,150 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:captured:C9DB5327-2986-41B7-8A90-D7F08A9A7880@nycdancecalendar.local
-DTSTAMP:20260902T041435Z
+DTSTAMP:20260902T174157Z
 DTSTART:20260812T220000Z
 DTEND:20260812T230000Z
 SUMMARY:Salsa by the Water — UptownRoyaltyNYC
-DESCRIPTION:Domino Square\\nUNVERIFIED\\n[debug: timing — page=0.6s socialcrawl=skipped apify=skipped resize=0.2s gemini=2.8s total=3.6s reached=page]\nSALSA BY THE WATER\nat Domino Park\nAugust 12 & 26\nSeptember 9 & 23\n6 - 9 PM\nDomino Square\nIf your Wednesday pla…
+DESCRIPTION:Domino Square\nUNVERIFIED\n[debug: timing — page=0.6s socialcrawl=skipped apify=skipped resize=0.2s gemini=2.8s total=3.6s reached=page]\nSALSA BY THE WATER\nat Domino Park\nAugust 12 & 26\nSeptember 9 & 23\n6 - 9 PM\nDomino Square\nIf your Wednesday pla…
 LOCATION:Domino Square
 URL:https://www.instagram.com/p/Db3mx2-xf1W/
 END:VEVENT
 BEGIN:VEVENT
 UID:captured:94DF824E-F440-4E33-BA74-F353A435BCFC@nycdancecalendar.local
-DTSTAMP:20260902T041435Z
+DTSTAMP:20260902T174157Z
 DTSTART:20260826T180000Z
 DTEND:20260826T190000Z
 SUMMARY:Front Yard FM Presents Garden Party
-DESCRIPTION:THE GOOD LIFE GARDEN 50 GOODWIN PLACE BROOKLYN\\nUNVERIFIED\\n[debug: timing — page=0.9s socialcrawl=skipped apify=skipped resize=0.2s gemini=4.4s total=5.5s reached=page]\nFRONT YARD FM PRESENTS... GARDEN PARTY\nAT THE GOOD LIFE GARDEN 50 GOODWIN PLACE BROOKLYN\nFREE\nLIVE\n8-16-26 2-8…
+DESCRIPTION:THE GOOD LIFE GARDEN 50 GOODWIN PLACE BROOKLYN\nUNVERIFIED\n[debug: timing — page=0.9s socialcrawl=skipped apify=skipped resize=0.2s gemini=4.4s total=5.5s reached=page]\nFRONT YARD FM PRESENTS... GARDEN PARTY\nAT THE GOOD LIFE GARDEN 50 GOODWIN PLACE BROOKLYN\nFREE\nLIVE\n8-16-26 2-8…
 LOCATION:THE GOOD LIFE GARDEN 50 GOODWIN PLACE BROOKLYN
 URL:https://www.instagram.com/p/Dbsp7dTTUs3/
 END:VEVENT
 BEGIN:VEVENT
 UID:captured:C4766A5C-8DD9-4F7C-A994-8064DD37986A@nycdancecalendar.local
-DTSTAMP:20260902T041435Z
+DTSTAMP:20260902T174157Z
 DTSTART:20260826T220000Z
 DTEND:20260826T230000Z
 SUMMARY:Salsa by the Water — Victor Santos & Friends
-DESCRIPTION:Domino Square\\nUNVERIFIED\\n[debug: timing — page=0.6s socialcrawl=skipped apify=skipped resize=0.2s gemini=2.8s total=3.6s reached=page]\nSALSA BY THE WATER\nat Domino Park\nAugust 12 & 26\nSeptember 9 & 23\n6 - 9 PM\nDomino Square\nIf your Wednesday pla…
+DESCRIPTION:Domino Square\nUNVERIFIED\n[debug: timing — page=0.6s socialcrawl=skipped apify=skipped resize=0.2s gemini=2.8s total=3.6s reached=page]\nSALSA BY THE WATER\nat Domino Park\nAugust 12 & 26\nSeptember 9 & 23\n6 - 9 PM\nDomino Square\nIf your Wednesday pla…
 LOCATION:Domino Square
 URL:https://www.instagram.com/p/Db3mx2-xf1W/
 END:VEVENT
 BEGIN:VEVENT
 UID:captured:B1534705-EF0B-449A-A844-21F02F89D3A3@nycdancecalendar.local
-DTSTAMP:20260902T041435Z
+DTSTAMP:20260902T174157Z
 DTSTART:20260826T230000Z
 DTEND:20260827T000000Z
 SUMMARY:Capicú Juke Joint
-DESCRIPTION:Shared from your phone\\nUNVERIFIED\\n[debug: timing — page=0.0s socialcrawl=2.6 apify=skipped resize=0.2s gemini=4.2s total=7.1s reached=socialcrawl]\nCAPICÚ\nJUKE JOINT\nDOMINOES AFTER DARK\nCAROLINA MONTESQUIEU\nSUCE\nYEDOYE TRAVIS\nSPINNA\nTIDO\nIMEON GOODSON\nRUF…
+DESCRIPTION:Shared from your phone\nUNVERIFIED\n[debug: timing — page=0.0s socialcrawl=2.6 apify=skipped resize=0.2s gemini=4.2s total=7.1s reached=socialcrawl]\nCAPICÚ\nJUKE JOINT\nDOMINOES AFTER DARK\nCAROLINA MONTESQUIEU\nSUCE\nYEDOYE TRAVIS\nSPINNA\nTIDO\nIMEON GOODSON\nRUF…
 LOCATION:Shared from your phone
 URL:https://www.instagram.com/p/Db3STxpxxyZ/
 END:VEVENT
 BEGIN:VEVENT
 UID:captured:FAF09F9E-C40A-4F4C-AEDC-F25D65145BA4@nycdancecalendar.local
-DTSTAMP:20260902T041435Z
+DTSTAMP:20260902T174157Z
 DTSTART:20260830T000000Z
 DTEND:20260830T010000Z
 SUMMARY:Salsactivism: NYC Salsa Subway to Queens
-DESCRIPTION:SINGLECUT BEERSMITHS\n19-33 37TH ST\, ASTORIA\, NY\\nUNVERIFIED\\n[debug: timing — page=0.0s socialcrawl=1.8 apify=11.2 resize=0.1s gemini=4.4s total=17.6s reached=apify]\nSALSACTIVISM CULTURA PA' LANTE\n$15\n8PM - 12AM\nAugust 29\nSINGLECUT BEERSMITHS\n19-33 37TH ST\, ASTORIA\, NY\n✊🏽SALSACTIVI…
+DESCRIPTION:SINGLECUT BEERSMITHS\n19-33 37TH ST\, ASTORIA\, NY\nUNVERIFIED\n[debug: timing — page=0.0s socialcrawl=1.8 apify=11.2 resize=0.1s gemini=4.4s total=17.6s reached=apify]\nSALSACTIVISM CULTURA PA' LANTE\n$15\n8PM - 12AM\nAugust 29\nSINGLECUT BEERSMITHS\n19-33 37TH ST\, ASTORIA\, NY\n✊🏽SALSACTIVI…
 LOCATION:SINGLECUT BEERSMITHS\n19-33 37TH ST\, ASTORIA\, NY
 URL:https://www.instagram.com/p/Dbvx7DKEVID/
 END:VEVENT
 BEGIN:VEVENT
 UID:captured:B7F7E7BF-D916-48EF-9E69-8590300ED9B8@nycdancecalendar.local
-DTSTAMP:20260902T041435Z
+DTSTAMP:20260902T174157Z
 DTSTART:20260902T220000Z
 DTEND:20260902T230000Z
 SUMMARY:Samara Joy And Christian McBride Celebrate Verve's 70th Anniversary
-DESCRIPTION:CENTRAL PARK\\nUNVERIFIED\\n[debug: timing — apify(incl. image download)=11.0s resize=0.1s gemini=3.4s total=14.6s]\nCapital One City Parks Foundation SUMMERSTAGE 40\nSEPTEMBER 2 • CENTRAL PARK\nFREE\n6PM\nSAMARA JOY AND CHRISTIAN MCBRIDE\nCELEBRATE VERV…
+DESCRIPTION:CENTRAL PARK\nUNVERIFIED\n[debug: timing — apify(incl. image download)=11.0s resize=0.1s gemini=3.4s total=14.6s]\nCapital One City Parks Foundation SUMMERSTAGE 40\nSEPTEMBER 2 • CENTRAL PARK\nFREE\n6PM\nSAMARA JOY AND CHRISTIAN MCBRIDE\nCELEBRATE VERV…
 LOCATION:CENTRAL PARK
 URL:https://www.instagram.com/p/Dcgs0V1Rhql/
 END:VEVENT
 BEGIN:VEVENT
 UID:captured:C725D1F3-863E-4635-9FAB-BAFD096CE3DB@nycdancecalendar.local
-DTSTAMP:20260902T041435Z
+DTSTAMP:20260902T174157Z
 DTSTART:20260913T160000Z
 DTEND:20260913T170000Z
 SUMMARY:Clubhouse Jamboree
-DESCRIPTION:Music Pagoda\, Prospect Park\, Brooklyn\, NYC\\nUNVERIFIED\\n[debug: timing — page=1.1s socialcrawl=skipped apify=skipped resize=0.0s gemini=1.9s total=3.0s reached=page]\nCLUBHOUSE JAMBOREE\nSunday\, September 13\, 2026\n12 PM – 7 PM\nMusic Pagoda\, Prospect Park\, Brooklyn\, NYC\nDJs: D J…
+DESCRIPTION:Music Pagoda\, Prospect Park\, Brooklyn\, NYC\nUNVERIFIED\n[debug: timing — page=1.1s socialcrawl=skipped apify=skipped resize=0.0s gemini=1.9s total=3.0s reached=page]\nCLUBHOUSE JAMBOREE\nSunday\, September 13\, 2026\n12 PM – 7 PM\nMusic Pagoda\, Prospect Park\, Brooklyn\, NYC\nDJs: D J…
 LOCATION:Music Pagoda\, Prospect Park\, Brooklyn\, NYC
 URL:https://www.instagram.com/p/Dcmixwxpqke/
 END:VEVENT
 BEGIN:VEVENT
 UID:captured:895442D4-6F62-422A-9968-591B0D3B1AA4@nycdancecalendar.local
-DTSTAMP:20260902T041435Z
+DTSTAMP:20260902T174157Z
 DTSTART:20260920T223000Z
 DTEND:20260920T233000Z
 SUMMARY:Vinay Desai
-DESCRIPTION:269 W 39th St\, New York\, NY\\nUNVERIFIED\\n[debug: timing — page=1.0s socialcrawl=skipped apify=skipped resize=0.1s gemini=2.0s total=3.1s reached=page]\nVinay Desai returns to NYC\nSunday\, September 20\, 2026\n6:30–8:00 PM\n269 W 39th St\, New York\, NY\nThey&#039\;re ba…
+DESCRIPTION:269 W 39th St\, New York\, NY\nUNVERIFIED\n[debug: timing — page=1.0s socialcrawl=skipped apify=skipped resize=0.1s gemini=2.0s total=3.1s reached=page]\nVinay Desai returns to NYC\nSunday\, September 20\, 2026\n6:30–8:00 PM\n269 W 39th St\, New York\, NY\nThey&#039\;re ba…
 LOCATION:269 W 39th St\, New York\, NY
 URL:https://www.instagram.com/p/DcdTZhRg7IY/
 END:VEVENT
 BEGIN:VEVENT
 UID:captured:E0B2B209-CAA3-415B-AADD-3243E21B59A9@nycdancecalendar.local
-DTSTAMP:20260902T041435Z
+DTSTAMP:20260902T174157Z
 DTSTART:20260925T210000Z
 DTEND:20260925T220000Z
 SUMMARY:9th Annual Brooklyn Brujeria Festival — Day I (Dumbo Archway)
-DESCRIPTION:Dumbo Archway\\nUNVERIFIED\\n[debug: timing — page=0.0s socialcrawl=2.7 apify=skipped resize=0.1s gemini=3.0s total=5.8s reached=socialcrawl]\nSAVE THE DATE!\nSeptember 25-27th\, 2026\n&#x1f49b\;&#x2728\; Saludos Beautiful Humans of the World. &#x1f30e\; M…
+DESCRIPTION:Dumbo Archway\nUNVERIFIED\n[debug: timing — page=0.0s socialcrawl=2.7 apify=skipped resize=0.1s gemini=3.0s total=5.8s reached=socialcrawl]\nSAVE THE DATE!\nSeptember 25-27th\, 2026\n&#x1f49b\;&#x2728\; Saludos Beautiful Humans of the World. &#x1f30e\; M…
 LOCATION:Dumbo Archway
 URL:https://www.instagram.com/p/DceEjHskTMz/?img_index=3
 END:VEVENT
 BEGIN:VEVENT
 UID:captured:888E812A-5703-4B7A-ADDD-464705FCB2DC@nycdancecalendar.local
-DTSTAMP:20260902T041435Z
+DTSTAMP:20260902T174157Z
 DTSTART:20260926T160000Z
 DTEND:20260926T170000Z
 SUMMARY:9th Annual Brooklyn Brujeria Festival — Day II Market & House Party Takeover
-DESCRIPTION:BRIC Brooklyn\\nUNVERIFIED\\n[debug: timing — page=0.0s socialcrawl=2.7 apify=skipped resize=0.1s gemini=3.0s total=5.8s reached=socialcrawl]\nSAVE THE DATE!\nSeptember 25-27th\, 2026\n&#x1f49b\;&#x2728\; Saludos Beautiful Humans of the World. &#x1f30e\; M…
+DESCRIPTION:BRIC Brooklyn\nUNVERIFIED\n[debug: timing — page=0.0s socialcrawl=2.7 apify=skipped resize=0.1s gemini=3.0s total=5.8s reached=socialcrawl]\nSAVE THE DATE!\nSeptember 25-27th\, 2026\n&#x1f49b\;&#x2728\; Saludos Beautiful Humans of the World. &#x1f30e\; M…
 LOCATION:BRIC Brooklyn
 URL:https://www.instagram.com/p/DceEjHskTMz/?img_index=3
 END:VEVENT
 BEGIN:VEVENT
 UID:captured:816D7467-25D0-45AB-82D7-857DF318C9BC@nycdancecalendar.local
-DTSTAMP:20260902T041435Z
+DTSTAMP:20260902T174157Z
 DTSTART:20260927T010000Z
 DTEND:20260927T020000Z
 SUMMARY:Jazz 'N Azz Vol. 6
-DESCRIPTION:718 Ink\, 1428 Pitkin Ave\, Brooklyn\, NY 11233\\nUNVERIFIED\\n[debug: timing — page=0.8s socialcrawl=skipped apify=skipped resize=0.0s gemini=1.3s total=2.1s reached=page]\n718 Ink Presents\nJazz 'N Azz Vol. 6\nLive Jazz. Pole Art. Tattoos. Cocktails.\nJAZZ ’N AZZ VOL. 6 &#x1f3b7\;&#x1f…
+DESCRIPTION:718 Ink\, 1428 Pitkin Ave\, Brooklyn\, NY 11233\nUNVERIFIED\n[debug: timing — page=0.8s socialcrawl=skipped apify=skipped resize=0.0s gemini=1.3s total=2.1s reached=page]\n718 Ink Presents\nJazz 'N Azz Vol. 6\nLive Jazz. Pole Art. Tattoos. Cocktails.\nJAZZ ’N AZZ VOL. 6 &#x1f3b7\;&#x1f…
 LOCATION:718 Ink\, 1428 Pitkin Ave\, Brooklyn\, NY 11233
 URL:https://www.instagram.com/p/Dcjc86VhPZt/
 END:VEVENT
 BEGIN:VEVENT
 UID:captured:4D773AD4-C5D2-4AC0-BF8E-DD8BD2B45E02@nycdancecalendar.local
-DTSTAMP:20260902T041435Z
+DTSTAMP:20260902T174157Z
 DTSTART:20260927T160000Z
 DTEND:20260927T170000Z
 SUMMARY:9th Annual Brooklyn Brujeria Festival — Day III
-DESCRIPTION:Von King Park\\nUNVERIFIED\\n[debug: timing — page=0.0s socialcrawl=2.7 apify=skipped resize=0.1s gemini=3.0s total=5.8s reached=socialcrawl]\nSAVE THE DATE!\nSeptember 25-27th\, 2026\n&#x1f49b\;&#x2728\; Saludos Beautiful Humans of the World. &#x1f30e\; M…
+DESCRIPTION:Von King Park\nUNVERIFIED\n[debug: timing — page=0.0s socialcrawl=2.7 apify=skipped resize=0.1s gemini=3.0s total=5.8s reached=socialcrawl]\nSAVE THE DATE!\nSeptember 25-27th\, 2026\n&#x1f49b\;&#x2728\; Saludos Beautiful Humans of the World. &#x1f30e\; M…
 LOCATION:Von King Park
 URL:https://www.instagram.com/p/DceEjHskTMz/?img_index=3
 END:VEVENT
 BEGIN:VEVENT
 UID:captured:6589F810-DB43-49FF-BD9A-1BB2F751E35E@nycdancecalendar.local
-DTSTAMP:20260902T041435Z
+DTSTAMP:20260902T174157Z
 DTSTART:20261011T000000Z
 DTEND:20261011T010000Z
 SUMMARY:DJ Shadow Celebrates 30 Years of Endtroducing
-DESCRIPTION:Terminal 5\, New York\, NY\, United States\\nUNVERIFIED\\nDJ Shadow\nCelebrates 30 Years of Endtroducing\nAges: 16 & Over
+DESCRIPTION:Terminal 5\, New York\, NY\, United States\nUNVERIFIED\nDJ Shadow\nCelebrates 30 Years of Endtroducing\nAges: 16 & Over
 LOCATION:Terminal 5\, New York\, NY\, United States
 END:VEVENT
 BEGIN:VEVENT
 UID:captured:9890FAF1-A020-4DBA-BA22-BA9459BD9AD2@nycdancecalendar.local
-DTSTAMP:20260902T041435Z
+DTSTAMP:20260902T174157Z
 DTSTART:20261114T170000Z
 DTEND:20261114T180000Z
 SUMMARY:Garden Court Concerts
-DESCRIPTION:The Frick Collection\\nUNVERIFIED\\n[debug: timing — page=1.0s socialcrawl=skipped apify=skipped resize=0.1s gemini=2.9s total=4.0s reached=page]\nThe Frick Is Adding Free Garden Court Concerts to the Upcoming Fall Program\nNovember 14 and 22\nNovember 14 and…
+DESCRIPTION:The Frick Collection\nUNVERIFIED\n[debug: timing — page=1.0s socialcrawl=skipped apify=skipped resize=0.1s gemini=2.9s total=4.0s reached=page]\nThe Frick Is Adding Free Garden Court Concerts to the Upcoming Fall Program\nNovember 14 and 22\nNovember 14 and…
 LOCATION:The Frick Collection
 URL:https://www.instagram.com/p/DcOkVPoSJI6/
 END:VEVENT
 BEGIN:VEVENT
 UID:captured:C47F8CEB-266A-4B80-A2D1-3FE9CE3AC874@nycdancecalendar.local
-DTSTAMP:20260902T041435Z
+DTSTAMP:20260902T174157Z
 DTSTART:20261122T170000Z
 DTEND:20261122T180000Z
 SUMMARY:Garden Court Concerts
-DESCRIPTION:The Frick Collection\\nUNVERIFIED\\n[debug: timing — page=1.0s socialcrawl=skipped apify=skipped resize=0.1s gemini=2.9s total=4.0s reached=page]\nThe Frick Is Adding Free Garden Court Concerts to the Upcoming Fall Program\nNovember 14 and 22\nNovember 14 and…
+DESCRIPTION:The Frick Collection\nUNVERIFIED\n[debug: timing — page=1.0s socialcrawl=skipped apify=skipped resize=0.1s gemini=2.9s total=4.0s reached=page]\nThe Frick Is Adding Free Garden Court Concerts to the Upcoming Fall Program\nNovember 14 and 22\nNovember 14 and…
 LOCATION:The Frick Collection
 URL:https://www.instagram.com/p/DcOkVPoSJI6/
 END:VEVENT
